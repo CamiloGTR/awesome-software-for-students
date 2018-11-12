@@ -1,31 +1,47 @@
 # School-Software
 Initially taken from the 100 free useful software for students. This is an update version of [this infography](https://i.imgur.com/0e07EWn.jpg). 
+
+## Office Suite
+* Google
+* Microsoft Office Web
+* Libre Office
+* [Zoho](https://www.zoho.com/)
+
 ## Note Taking
 * One Note
 * Libre Office
 * Abi Word
-* Google Drive
+* Google Docs
+* Google Keep
+* Office Web
+* Evernote
+* Dark Room
 
 ## Reading
-Foxit Reader
-NitroPDF
-ReadCube
-Skim
-WinDjView
+* Foxit Reader
+* NitroPDF
+* ReadCube
+* Skim
+* WinDjView
 
 
 ## Citations
-Zotero
+* Zotero
 
 ## Writing Papers
-LaTeX
-Oneleaf
+* LaTeX
+* Oneleaf
+* Jabref
+* Lyx
+
 
 ## Mind Maps
 
 ## Diagrams
+* Draw.io
 
 ## Screen Recorder
+* OBS
 
 ## Study Groups
 
@@ -38,6 +54,8 @@ Oneleaf
 ## Organization Tools 
 
 ## Email & Web
+* Thunderbird
+
 
 ## Passwords
 
@@ -46,6 +64,9 @@ Oneleaf
 ## Music
 
 ## Video Editing
+* HitFilm Express
+* Da Vinci Resolve
+* OpenShots
 
 ## Health
 
@@ -54,10 +75,15 @@ Oneleaf
 ## Audio & Composition
 
 ## Design & Animation 
+* Blender: For 3D Modeling. The program is optimized for productivity, and it doesn’t consider user experience, thus the learning curve is quite steep. 
+
+* Scratch
 
 ## DVD-CD
 
 ## Media Player
+* VLC
+* [MPC-HC](https://mpc-hc.org/): Extremely light-weight, open source media player for Windows
 
 ## Programming
 
