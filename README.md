@@ -1,6 +1,13 @@
 # School-Software
 Initially taken from the 100 free useful software for students. This is an update version of [this infography](https://i.imgur.com/0e07EWn.jpg).
 
+- [Preamble](#preamble)
+- [Background Information](#background-information)
+- [VPNs](#vpns)
+	- [VPN Guides and Tutorials](#vpn-guides-and-tutorials)
+	- [VPN Subscription Services](#vpn-subscription-services)
+	- [Self-hosted VPNs](#self-hosted-vpns)
+  
 ## Office Suite
 * [Google Docs](https://www.google.com/docs/about/): Google Docs brings your documents to life with smart editing and styling tools to help you easily format text and paragraphs.
 * [Microsoft Office Online](https://www.office.com/): Office Online is an online office suite offered by Microsoft, which allows users to create and edit files using lightweight Microsoft Office web apps: Word, Excel, PowerPoint and OneNote. The offering also includes Outlook.com, People, Calendar and OneDrive, all of which are accessible from a unified app switcher.
