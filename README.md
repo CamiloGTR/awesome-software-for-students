@@ -80,6 +80,7 @@ Initially taken from the 100 free useful software for students. This is an updat
 * GIMP 
 * Irfanview
 * ScreenX
+* [Greenshot](http://getgreenshot.org/): A tool for making screenshots you can get on your Windows PC
 
 ## Audio & Composition
 * Audacity
@@ -123,3 +124,6 @@ Initially taken from the 100 free useful software for students. This is an updat
 * Mega
 _Note: If your school/college provides you with an educational account to have unlimited storage in Google Drive or 1TB in Onedrive keep in mind that the account could be deleted if you drop out/graduate._
 ## Finances
+
+## Utilities
+* VMN 
