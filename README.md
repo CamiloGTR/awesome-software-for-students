@@ -63,6 +63,11 @@ Initially taken from the 100 free useful software for students. This is an updat
 ## Time Management 
 
 ## Music
+* Foobar2000
+* [Media Monkey](https://www.mediamonkey.com/)
+* [MusicBee](https://getmusicbee.com/)
+* [Clementine](https://www.clementine-player.org/): Clementine is a multiplatform music player. It is inspired by [Amarok 1.4](https://amarok.kde.org/), focusing on a fast and easy-to-use interface for searching and playing your music.
+
 
 ## Video Editing
 * HitFilm Express
@@ -78,6 +83,7 @@ Initially taken from the 100 free useful software for students. This is an updat
 
 ## Audio & Composition
 * Audacity
+* [LMMS](https://lmms.io/): A free, cross-platform tool to create music.
 
 ## Design & Animation 
 * Blender: For 3D Modeling. The program is optimized for productivity, and it doesn’t consider user experience, thus the learning curve is quite steep. 
@@ -96,6 +102,8 @@ Initially taken from the 100 free useful software for students. This is an updat
 * Scratch
 * Notepad++
 * Atom
+* Visual Studio
+* [Sublime Text](https://www.sublimetext.com/3)
 
 ## Web Design
 
