@@ -1,5 +1,5 @@
 # School-Software
-Initially taken from the 100 free useful software for students. This is an update version of the infography. 
+Initially taken from the 100 free useful software for students. This is an update version of [this infography](https://i.imgur.com/0e07EWn.jpg). 
 ## Note Taking
 * One Note
 * Libre Office
@@ -7,10 +7,19 @@ Initially taken from the 100 free useful software for students. This is an updat
 * Google Drive
 
 ## Reading
+Foxit Reader
+NitroPDF
+ReadCube
+Skim
+WinDjView
+
 
 ## Citations
+Zotero
 
 ## Writing Papers
+LaTeX
+Oneleaf
 
 ## Mind Maps
 
