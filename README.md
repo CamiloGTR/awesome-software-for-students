@@ -49,7 +49,7 @@ Initially taken from the 100 free useful software for students. This is an updat
 ## Flashcards
 
 ## File Management
-* [Space Sniffer](http://www.uderzo.it/main_products/space_sniffer/): SpaceSniffer is a freeWaren application that lets you understand how folders and files are structured on your disks. By using a Treemap visualization layout, you have immediate perception of where big folders and files are placed on your device
+* [Space Sniffer](http://www.uderzo.it/main_products/space_sniffer/): SpaceSniffer is a free application that lets you understand how folders and files are structured on your disks. By using a Treemap visualization layout, you have immediate perception of where big folders and files are placed on your device
 ## Presentations
 
 ## Organization Tools 
