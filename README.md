@@ -1,37 +1,31 @@
 # School-Software
-Initially taken from the 100 free useful software for students. This is an update version of [this infography](https://i.imgur.com/0e07EWn.jpg).
+Initially taken from the 100 free useful software for students. This is an update and curated version of [this infography](https://i.imgur.com/0e07EWn.jpg) inspired by [this list](https://github.com/Igglybuff/awesome-piracy). 
 
-- [Preamble](#preamble)
-- [Background Information](#background-information)
-- [VPNs](#vpns)
-	- [VPN Guides and Tutorials](#vpn-guides-and-tutorials)
-	- [VPN Subscription Services](#vpn-subscription-services)
-	- [Self-hosted VPNs](#self-hosted-vpns)
-  
+## Contents
+
+
 ## Office Suite
-* [Google Docs](https://www.google.com/docs/about/): Google Docs brings your documents to life with smart editing and styling tools to help you easily format text and paragraphs.
-* [Microsoft Office Online](https://www.office.com/): Office Online is an online office suite offered by Microsoft, which allows users to create and edit files using lightweight Microsoft Office web apps: Word, Excel, PowerPoint and OneNote. The offering also includes Outlook.com, People, Calendar and OneDrive, all of which are accessible from a unified app switcher.
+* [Google Docs](https://www.google.com/docs/about/): Collaborative  editing and styling tools to help you easily format text and paragraphs.
+* [Microsoft Office Online](https://www.office.com/) (*): Online office suite offered by Microsoft, which allows users to create and edit files using lightweight Office web apps (Word, Excel, PowerPoint and OneNote).
 * [Libre Office](https://www.libreoffice.org/): Free office suite, open source, and compatible with .doc, .docx, .xls, .xlsx, .ppt, .pptx files. Updated regularly.
-* [Zoho](https://www.zoho.com/)
+* [Zoho](https://www.zoho.com/): Web-based online office suite containing word processing, spreadsheets, presentations, databases, note-taking, wikis, web conferencing, customer relationship management, project management, invoicing, and other applications.
 
 ## Note Taking
-* One Note: Microsoft app to take notes. It's quite useful if you use a pen or you can use a touchpad.
+* [One Note](https://www.onenote.com/download): Microsoft app to take notes. It's quite useful if you use a pen or you can use a touchpad.
 * Abi Word:
 * [Google Keep](https://keep.google.com/): Google Keep is a note-taking service developed by Google
 * [Evernote](https://evernote.com/): Evernote is the app that keeps your notes organized. Memos are synced so they're accessible anywhere, and searchable so you always find what you need
-* Dark Room:
+* [Dark Room](http://jjafuller.com/dark-room/): Darkroom is a full-screen text editor that makes writing on your computer like using a typewriter: an empty screen with just your words on it. Windows only
 
 ## Reading
-* Adobe Acrobat
-* Foxit Reader
-* NitroPDF
-* ReadCube
-* Skim
-* WinDjView
+* [Adobe Acrobat](https://get.adobe.com/reader/): The most popular pdf viewer. It allows you to create, manipulate, print and manage pdf files.
+* [Foxit Reader](https://www.foxitsoftware.com/pdf-reader/): Freemium PDF tool that can create, view, edit, digitally sign, and print PDF files
+* [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader.html): PDF, eBook (ePub, Mobi), XPS, DjVu, CHM, Comic Book (CBZ and CBR) reader for Windows.
+* [WinDjView](https://sourceforge.net/projects/windjview/): fast, compact and powerful DjVu viewer for Windows with tabbed interface, continuous scrolling and advanced printing options, based on free DjVuLibre library.
 
 
 ## Citations
-* Zotero
+* [Zotero](https://www.zotero.org/): easy-to-use tool to help you collect, organize, cite, and share research
 
 ## Writing Papers
 * [LaTeX](https://www.latex-project.org/): LaTeX is a high-quality typesetting system; it includes features designed for the production of technical and scientific documentation
@@ -126,12 +120,14 @@ Initially taken from the 100 free useful software for students. This is an updat
 ## Career Tools
 
 ## Cloud Storage
-* Google Drive:
-* One Drive
-* Dropbox
-* Mega
+* Google Drive:  15 GB shared between Google Photos, Gmail and Google Drive. [These elements](https://www.screencast.com/t/3LKLupSMT) count towards your quota, while [these others](https://www.screencast.com/t/vfzu591AA) don't. [Plans here](https://www.google.com/intl/en-GB_ALL/drive/pricing/).
+* One Drive: 5GB storage. [Plans here](https://onedrive.live.com/about/en-US/plans/).
+* Dropbox: 2GB storage. [Plans here](https://www.dropbox.com/individual/plans-comparison)
+* Mega: 15GB Storage. [Plans here](https://mega.nz/pro).
 _Note: If your school/college provides you with an educational account to have unlimited storage in Google Drive or 1TB in Onedrive keep in mind that the account could be deleted if you drop out/graduate._
 ## Finances
+* [GNU Cash](https://www.gnucash.org/): Multiplatform personal and small-business financial-accounting software.
 
 ## Utilities
 * VMN
+* [Ninite](https://ninite.com/): Install and update many programs at Once. Many of the apps listed here are included in Ninite. It is quite useful after a clean installation of Windows.  
