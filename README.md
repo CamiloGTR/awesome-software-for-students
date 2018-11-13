@@ -106,6 +106,7 @@ Initially taken from the 100 free useful software for students. This is an updat
 ## Audio & Composition
 * [Audacity](https://www.audacityteam.org/): Audacity is an easy-to-use, multi-track audio editor and recorder for Windows, Mac OS X, GNU/Linux and other operating systems
 * [LMMS](https://lmms.io/): A free, cross-platform tool to create music.
+* [Exact Audio Copy](http://www.exactaudiocopy.de/en/index.php/resources/download/): CD-Ripper popular among audiophiles for its accuracy and ability to rip slightly damaged audio compact discs [Tutorial](https://github.com/flacfan/EAC-Guides/blob/master/part-2-ripping.md#ripping).
 
 ## Design & Animation
 * [Blender](https://www.blender.org/): Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation. The program is optimized for productivity, and it doesn’t consider user experience, thus the learning curve is quite steep.
