@@ -16,6 +16,8 @@ Initially taken from the 100 free useful software for students. This is an updat
 * [Google Keep](https://keep.google.com/): Google Keep is a note-taking service developed by Google
 * [Evernote](https://evernote.com/): Evernote is the app that keeps your notes organized. Memos are synced so they're accessible anywhere, and searchable so you always find what you need
 * [Dark Room](http://jjafuller.com/dark-room/): Darkroom is a full-screen text editor that makes writing on your computer like using a typewriter: an empty screen with just your words on it. Windows only
+* [Markdownify](https://markdownify.js.org/) - A minimal Markdown editor.
+* [Etherpad](http://etherpad.org/): Customizable open source online editor providing collaborative editing in really real-time. 
 
 ## Reading
 * [Adobe Acrobat](https://get.adobe.com/reader/): The most popular pdf viewer. It allows you to create, manipulate, print and manage pdf files.
@@ -40,24 +42,34 @@ Initially taken from the 100 free useful software for students. This is an updat
 * [Draw.io](https://www.draw.io/): A free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams
 
 ## Screen Recorder
-* [OBS](https://obsproject.com/): Free and open source software for video recording and live streaming
+* [OBS](https://obsproject.com/): Free and open source software for video recording and live streaming.
+* [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/) - Highly customisable screencasting program for linux. 
 
 ## Chat
 * [Slack](https://slack.com/): It's a cloud-based set of proprietary team collaboration tools and services. Very popular among different workspaces.
 * [Hangout]()
-* [Discord](https://discordapp.com/): Discord is a proprietary freeware VoIP application and digital distribution platform. Formally, it's intended to videogames communities however there are many communities to learn different subjects.
+* [Jitsi](https://jitsi.org/jitsi-meet/): Secure video conferencing and desktop sharing using WebRTC.
+* [Discord](https://discordapp.com/): Discord is a proprietary freeware VoIP application and digital distribution platform. Formally, it was intended to the videogaming community however there are many groups in different servers to learn or practice many subjects.
+* [Ring](https://ring.cx/): Telephone, teleconferencing, and media sharing through a distributed service.
+* Telegram
+* [Signal](https://www.whispersystems.org/): Private messaging and calling for desktop, Android, and iOS.
+* Whatsapp
 
 ## Flashcards
 
 ## File Management
-* [Space Sniffer](http://www.uderzo.it/main_products/space_sniffer/): SpaceSniffer is a free application that lets you understand how folders and files are structured on your disks. By using a Treemap visualization layout, you have immediate perception of where big folders and files are placed on your device
+* [Space Sniffer](http://www.uderzo.it/main_products/space_sniffer/): SpaceSniffer is a free application that lets you understand how folders and files are structured on your disks. By using a Treemap visualization layout, you have immediate perception of where big folders and files are placed on your device.
+* 7-Zip
+* Peazip
+* FileZilla
+
 ## Presentations
 
 ## Organization Tools
 
 ## Email & Web
-* [Thunderbird](https://www.thunderbird.net): a free email application that's easy to set up and customize
-
+* [Thunderbird](https://www.thunderbird.net): a free email application that's easy to set up and customize.
+* Firefox - Web browser with a large collection of add-ons available. It is backed by Mozilla, a non-profit organization that supports innovation, freedom, and an open Web.
 
 ## Passwords
 * [Keepass](https://keepass.info/): KeePass is a free open source password manager, which helps you to manage your passwords in a secure way. You can put all your passwords in one database, which is locked with one master key or a key file.
@@ -84,7 +96,12 @@ Initially taken from the 100 free useful software for students. This is an updat
 ## Photos & Images
 * [GIMP](https://www.gimp.org/): GIMP is a cross-platform image editor available for GNU/Linux, OS X, Windows and more operating systems
 * [ShareX](https://getsharex.com/): ShareX is a free and open-source screenshot and screencast utility for Microsoft Windows
-* [Greenshot](http://getgreenshot.org/): A tool for making screenshots you can get on your Windows PC
+* [Greenshot](http://getgreenshot.org/): A tool for making screenshots you can get on your Windows PC.
+* Inkscape - Professional vector graphics editor for all platforms. (GNU GPL)
+* Krita - Painting program made by artists. (GNU GPLv3)
+* Pinta - Gtk# clone of Paint.NET. (MIT)
+* Piskel - Online sprite editor. (Apache License 2.0)
+
 
 ## Audio & Composition
 * [Audacity](https://www.audacityteam.org/): Audacity is an easy-to-use, multi-track audio editor and recorder for Windows, Mac OS X, GNU/Linux and other operating systems
@@ -96,14 +113,14 @@ Initially taken from the 100 free useful software for students. This is an updat
 ## DVD-CD
 
 ## Media Player
-* VLC
+* [VLC](https://www.videolan.org/vlc/index.html): Media Player with built-in codecs.
 * [MPV](https://mpv.io/): A free, open source, and cross-platform media player.
-* [SMPlayer](https://www.smplayer.info/): A free Media Player with built-in codecs. It supports for Chromecast.
+* [SMPlayer](https://www.smplayer.info/): Media Player with built-in codecs. It supports Chromecast.
 
 ## Programming
 * Github for Education:
-* [Scratch](https://scratch.mit.edu/): Scratch is a free programming language and online community where you can create your own interactive stories, games, and animations
-* [Notepad++](https://notepad-plus-plus.org/): a free source code editor which supports several programming languages running under the MS Windows environment.
+* [Scratch](https://scratch.mit.edu/): Free programming language and online community where you can create your own interactive stories, games, and animations. Its main focus is on children or people new to programming. 
+* [Notepad++](https://notepad-plus-plus.org/): Source code editor which supports several programming languages running under the MS Windows environment.
 * [Atom](https://atom.io/): Atom is a free and open-source text and source code editor for macOS, Linux, and Microsoft Windows with support for plug-ins written in Node.js, and embedded Git Control, developed by GitHub
 * Visual Studio:
 * [Sublime Text](https://www.sublimetext.com/3)
@@ -124,10 +141,11 @@ Initially taken from the 100 free useful software for students. This is an updat
 * One Drive: 5GB storage. [Plans here](https://onedrive.live.com/about/en-US/plans/).
 * Dropbox: 2GB storage. [Plans here](https://www.dropbox.com/individual/plans-comparison)
 * Mega: 15GB Storage. [Plans here](https://mega.nz/pro).
+* [Resilio](https://www.resilio.com/): Fast p2p file sync software for enterprises and individuals that performs on any machine, data, scale, or network
 _Note: If your school/college provides you with an educational account to have unlimited storage in Google Drive or 1TB in Onedrive keep in mind that the account could be deleted if you drop out/graduate._
 ## Finances
 * [GNU Cash](https://www.gnucash.org/): Multiplatform personal and small-business financial-accounting software.
 
 ## Utilities
-* VMN
+* [VirtualBox](https://www.virtualbox.org/): Feature rich virtualization tools with support for many operating systems.
 * [Ninite](https://ninite.com/): Install and update many programs at Once. Many of the apps listed here are included in Ninite. It is quite useful after a clean installation of Windows.  
