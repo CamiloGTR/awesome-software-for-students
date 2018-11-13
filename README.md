@@ -137,15 +137,16 @@ Initially taken from the 100 free useful software for students. This is an updat
 ## Career Tools
 
 ## Cloud Storage
-* Google Drive:  15 GB shared between Google Photos, Gmail and Google Drive. [These elements](https://www.screencast.com/t/3LKLupSMT) count towards your quota, while [these others](https://www.screencast.com/t/vfzu591AA) don't. [Plans here](https://www.google.com/intl/en-GB_ALL/drive/pricing/).
-* One Drive: 5GB storage. [Plans here](https://onedrive.live.com/about/en-US/plans/).
+* Google Drive(*):  15 GB shared between Google Photos, Gmail and Google Drive. [These elements](https://www.screencast.com/t/3LKLupSMT) count towards your quota, while [these others](https://www.screencast.com/t/vfzu591AA) don't. [Plans here](https://www.google.com/intl/en-GB_ALL/drive/pricing/).
+* One Drive(*): 5GB storage. [Plans here](https://onedrive.live.com/about/en-US/plans/).
 * Dropbox: 2GB storage. [Plans here](https://www.dropbox.com/individual/plans-comparison)
 * Mega: 15GB Storage. [Plans here](https://mega.nz/pro).
 * [Resilio](https://www.resilio.com/): Fast p2p file sync software for enterprises and individuals that performs on any machine, data, scale, or network
-_Note: If your school/college provides you with an educational account to have unlimited storage in Google Drive or 1TB in Onedrive keep in mind that the account could be deleted if you drop out/graduate._
+
+_(*)Note: If your school/college provides you with an educational account to have unlimited storage in Google Drive or 1TB in Onedrive keep in mind that the account could be deleted if you drop out/graduate._
 ## Finances
 * [GNU Cash](https://www.gnucash.org/): Multiplatform personal and small-business financial-accounting software.
 
 ## Utilities
 * [VirtualBox](https://www.virtualbox.org/): Feature rich virtualization tools with support for many operating systems.
-* [Ninite](https://ninite.com/): Install and update many programs at Once. Many of the apps listed here are included in Ninite. It is quite useful after a clean installation of Windows.  
+* [Ninite](https://ninite.com/): Install and update many programs at once. Many of the apps listed here are included in Ninite. It is quite useful after a clean installation of Windows.  
