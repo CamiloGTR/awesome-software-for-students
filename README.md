@@ -39,13 +39,13 @@ Initially taken from the 100 free useful software for students. This is an updat
 ## Mind Maps
 
 ## Diagrams
-* [Draw.io](https://www.draw.io/): A free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams
+*[Draw.io](https://www.draw.io/): A free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams
 
 ## Screen Recorder
-* [OBS](https://obsproject.com/): Free and open source software for video recording and live streaming.
-* [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/) - Highly customisable screencasting program for linux. 
+*[OBS](https://obsproject.com/): Free and open source software for video recording and live streaming.
+*[SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/) - Highly customisable screencasting program for linux.
 
-## Chat
+## Chat & Study Groups
 * [Slack](https://slack.com/): It's a cloud-based set of proprietary team collaboration tools and services. Very popular among different workspaces.
 * [Hangout]()
 * [Jitsi](https://jitsi.org/jitsi-meet/): Secure video conferencing and desktop sharing using WebRTC.
