@@ -8,7 +8,7 @@ Initially taken from the 100 free useful software for students. This is an updat
 * [Google Docs](https://www.google.com/docs/about/): Collaborative  editing and styling tools to help you easily format text and paragraphs.
 * [Microsoft Office Online](https://www.office.com/) (*): Online office suite offered by Microsoft, which allows users to create and edit files using lightweight Office web apps (Word, Excel, PowerPoint and OneNote).
 * [Libre Office](https://www.libreoffice.org/): Free office suite, open source, and compatible with .doc, .docx, .xls, .xlsx, .ppt, .pptx files. Updated regularly.
-* [Zoho](https://www.zoho.com/): Web-based online office suite containing word processing, spreadsheets, presentations, databases, note-taking, wikis, web conferencing, customer relationship management, project management, invoicing, and other applications.
+* [Zoho](https://www.zoho.com/): Web-based office suite containing many tools such as wikis, web conferencing, customer relationship management, project management, invoicing, and other applications.
 
 ## Note Taking
 * [One Note](https://www.onenote.com/download): Microsoft app to take notes. It's quite useful if you use a pen or you can use a touchpad.
@@ -123,7 +123,7 @@ Initially taken from the 100 free useful software for students. This is an updat
 * [MPV](https://mpv.io/): A free, open source, and cross-platform media player.
 * [SMPlayer](https://www.smplayer.info/): Media Player with built-in codecs. It supports Chromecast.
 
-## Programming
+## Programming and Web Design
 * Github for Education:
 * [Scratch](https://scratch.mit.edu/): A free programming language and online community where you can create your own interactive stories, games, and animations. Its main focus is on children or people new to programming. 
 * [Notepad++](https://notepad-plus-plus.org/): Source code editor which supports several programming languages running under the MS Windows environment.
@@ -131,15 +131,15 @@ Initially taken from the 100 free useful software for students. This is an updat
 * [Visual Studio](https://visualstudio.microsoft.com/): An integrated development environment (IDE) from Microsoft. It is used to develop computer programs, as well as websites, web apps, web services and mobile apps
 * [Sublime Text](https://www.sublimetext.com/3): A proprietary cross-platform source code editor with a Python application programming interface. It supports many programming languages and functions can be added by users with plugins, typically community-built and maintained under free-software licenses
 
-## Web Design
 
 ## Math
-* Wolfram Alpha
+* [Sagemath](https://www.sagemath.org/): SageMath is a free open-source mathematics software system licensed under the GPL.
 
 ## Data & Statistics
 
 ## Security
-
+* [Malwarebytes](https://www.malwarebytes.com/) Find and remove malware from your computer. Although, you can pay for the PRO edition, the free version should be enough. 
+* [Windows Defender](https://www.microsoft.com/en-us/windows/comprehensive-security): On Windows 10, you already hace this tool which is able to replace most of of previous popular antivirus softwares as far as you take care of yuour behavious online. 
 ## Career Tools
 
 ## Cloud Storage
