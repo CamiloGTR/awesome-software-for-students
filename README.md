@@ -16,52 +16,55 @@ Initially taken from the 100 free useful software for students. This is an updat
 * [Google Keep](https://keep.google.com/): Google Keep is a note-taking service developed by Google
 * [Evernote](https://evernote.com/): Evernote is the app that keeps your notes organized. Memos are synced so they're accessible anywhere, and searchable so you always find what you need
 * [Dark Room](http://jjafuller.com/dark-room/): Darkroom is a full-screen text editor that makes writing on your computer like using a typewriter: an empty screen with just your words on it. Windows only
-* [Markdownify](https://markdownify.js.org/) - A minimal Markdown editor.
+* [Markdownify](https://markdownify.js.org/):  A minimal Markdown editor.
 * [Etherpad](http://etherpad.org/): Customizable open source online editor providing collaborative editing in really real-time. 
+* [ZimWiki]() A wiki-style notebook that uses local file storage.
 
 ## Reading
 * [Adobe Acrobat](https://get.adobe.com/reader/): The most popular pdf viewer. It allows you to create, manipulate, print and manage pdf files.
 * [Foxit Reader](https://www.foxitsoftware.com/pdf-reader/): Freemium PDF tool that can create, view, edit, digitally sign, and print PDF files
 * [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader.html): PDF, eBook (ePub, Mobi), XPS, DjVu, CHM, Comic Book (CBZ and CBR) reader for Windows.
-* [WinDjView](https://sourceforge.net/projects/windjview/): fast, compact and powerful DjVu viewer for Windows with tabbed interface, continuous scrolling and advanced printing options, based on free DjVuLibre library.
+* [WinDjView](https://sourceforge.net/projects/windjview/): Fast, compact and powerful DjVu viewer for Windows with tabbed interface, continuous scrolling and advanced printing options, based on free DjVuLibre library.
 
 
 ## Citations
-* [Zotero](https://www.zotero.org/): easy-to-use tool to help you collect, organize, cite, and share research
+* [Zotero](https://www.zotero.org/): An easy-to-use tool to help you collect, organize, cite, and share research
 
 ## Writing Papers
-* [LaTeX](https://www.latex-project.org/): LaTeX is a high-quality typesetting system; it includes features designed for the production of technical and scientific documentation
+* [LaTeX](https://www.latex-project.org/): High-quality typesetting system; it includes features designed for the production of technical and scientific documentation
 * [Overleaf](https://www.overleaf.com/): An online LaTeX editor that's easy to use. No installation, real-time collaboration, version control, hundreds of LaTeX templates, and more
-* [Jabref](http://www.jabref.org/): JabRef is an open source bibliography reference manager. The native file format used by JabRef is BibTeX, the standard LaTeX bibliography format. JabRef is a desktop application and runs on the Java VM (version 8).
-* [Lyx](https://www.lyx.org/): LyX is a document processor that encourages an approach to writing based on the structure of your documents (WYSIWYM) and not simply their appearance
+* [Jabref](http://www.jabref.org/): Open source bibliography reference manager. The native file format used by JabRef is BibTeX, the standard LaTeX bibliography format. JabRef is a desktop application and runs on the Java VM (version 8).
+* [Lyx](https://www.lyx.org/): Document processor that encourages an approach to writing based on the structure of your documents and not simply their appearance
 
 
 ## Mind Maps
 
 ## Diagrams
-*[Draw.io](https://www.draw.io/): A free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams
+*[Draw.io](https://www.draw.io/): Free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams
 
 ## Screen Recorder
-*[OBS](https://obsproject.com/): Free and open source software for video recording and live streaming.
-*[SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/) - Highly customisable screencasting program for linux.
+* [OBS](https://obsproject.com/): Free and open source software for video recording and live streaming.
+* [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/):  Highly customisable screencasting program for linux.
 
 ## Chat & Study Groups
 * [Slack](https://slack.com/): It's a cloud-based set of proprietary team collaboration tools and services. Very popular among different workspaces.
 * [Hangout]()
 * [Jitsi](https://jitsi.org/jitsi-meet/): Secure video conferencing and desktop sharing using WebRTC.
-* [Discord](https://discordapp.com/): Discord is a proprietary freeware VoIP application and digital distribution platform. Formally, it was intended to the videogaming community however there are many groups in different servers to learn or practice many subjects.
+* [Discord](https://discordapp.com/): Freeware VoIP application and digital distribution platform. Formally, it was intended to the videogaming community however there are many groups in different servers to learn or practice many subjects.
 * [Ring](https://ring.cx/): Telephone, teleconferencing, and media sharing through a distributed service.
-* Telegram
+* [Telegram](https://telegram.org/): Cloud-based instant messaging and voice over IP service. It has many characteristics that other clients lack of of. However, if you're looking for private options, this is not the one you're looking for. 
 * [Signal](https://www.whispersystems.org/): Private messaging and calling for desktop, Android, and iOS.
-* Whatsapp
+* [Whatsapp](https://www.whatsapp.com/): Freeware and cross-platform messaging and Voice over IP service owned by Facebook
 
 ## Flashcards
+* [Quizlet]()
+* []
 
 ## File Management
-* [Space Sniffer](http://www.uderzo.it/main_products/space_sniffer/): SpaceSniffer is a free application that lets you understand how folders and files are structured on your disks. By using a Treemap visualization layout, you have immediate perception of where big folders and files are placed on your device.
-* 7-Zip
-* Peazip
-* FileZilla
+* [Space Sniffer](http://www.uderzo.it/main_products/space_sniffer/): Free application that lets you understand how folders and files are structured on your disks. By using a Treemap visualization layout, you have immediate perception of where big folders and files are placed on your device.
+* [7-Zip](https://www.7-zip.org/): Compress and decompress heavy files.
+* [Peazip](http://www.peazip.org/): A free file archiver utility, based on Open Source technologies of 7-Zip, p7zip, FreeArc, PAQ, and PEA projects
+* [FileZilla](Cross-platform FTP, SFTP, and FTPS client with a vast list of features, which supports Windows, Mac OS X, Linux, and more)
 
 ## Presentations
 
@@ -73,7 +76,7 @@ Initially taken from the 100 free useful software for students. This is an updat
 
 ## Passwords
 * [Keepass](https://keepass.info/): KeePass is a free open source password manager, which helps you to manage your passwords in a secure way. You can put all your passwords in one database, which is locked with one master key or a key file.
-* [Bitwarden](https://bitwarden.com/): Bitwarden is a free and open source password management solution for individuals, teams, and business organizations. It allows you to host your own server with your passwords.
+* [Bitwarden](https://bitwarden.com/): A free and open source password management solution for individuals, teams, and business organizations. It allows you to host your own server with your passwords.
 
 ## Time Management
 * []()
@@ -95,7 +98,7 @@ Initially taken from the 100 free useful software for students. This is an updat
 
 ## Photos & Images
 * [GIMP](https://www.gimp.org/): GIMP is a cross-platform image editor available for GNU/Linux, OS X, Windows and more operating systems
-* [ShareX](https://getsharex.com/): ShareX is a free and open-source screenshot and screencast utility for Microsoft Windows
+* [ShareX](https://getsharex.com/): A free and open-source screenshot and screencast utility for Microsoft Windows.
 * [Greenshot](http://getgreenshot.org/): A tool for making screenshots you can get on your Windows PC.
 * Inkscape - Professional vector graphics editor for all platforms. (GNU GPL)
 * Krita - Painting program made by artists. (GNU GPLv3)
@@ -106,12 +109,14 @@ Initially taken from the 100 free useful software for students. This is an updat
 ## Audio & Composition
 * [Audacity](https://www.audacityteam.org/): Audacity is an easy-to-use, multi-track audio editor and recorder for Windows, Mac OS X, GNU/Linux and other operating systems
 * [LMMS](https://lmms.io/): A free, cross-platform tool to create music.
-* [Exact Audio Copy](http://www.exactaudiocopy.de/en/index.php/resources/download/): CD-Ripper popular among audiophiles for its accuracy and ability to rip slightly damaged audio compact discs [Tutorial](https://github.com/flacfan/EAC-Guides/blob/master/part-2-ripping.md#ripping).
+* [Exact Audio Copy](http://www.exactaudiocopy.de/en/index.php/resources/download/): CD-Ripper popular among audiophiles for its accuracy and ability to rip slightly damaged audio compact discs.[Tutorial](https://github.com/flacfan/EAC-Guides/blob/master/part-2-ripping.md#ripping).
 
 ## Design & Animation
-* [Blender](https://www.blender.org/): Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation. The program is optimized for productivity, and it doesn’t consider user experience, thus the learning curve is quite steep.
+* [Blender](https://www.blender.org/): A free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation. The program is optimized for productivity, and it doesn’t consider user experience, thus the learning curve is quite steep.
 
 ## DVD-CD
+*[Todoist]() Cross platafom tool for managing tasks.
+*[Trello]() Visual collaboration tool for planning tasks and projects.
 
 ## Media Player
 * [VLC](https://www.videolan.org/vlc/index.html): Media Player with built-in codecs.
@@ -120,11 +125,11 @@ Initially taken from the 100 free useful software for students. This is an updat
 
 ## Programming
 * Github for Education:
-* [Scratch](https://scratch.mit.edu/): Free programming language and online community where you can create your own interactive stories, games, and animations. Its main focus is on children or people new to programming. 
+* [Scratch](https://scratch.mit.edu/): A free programming language and online community where you can create your own interactive stories, games, and animations. Its main focus is on children or people new to programming. 
 * [Notepad++](https://notepad-plus-plus.org/): Source code editor which supports several programming languages running under the MS Windows environment.
-* [Atom](https://atom.io/): Atom is a free and open-source text and source code editor for macOS, Linux, and Microsoft Windows with support for plug-ins written in Node.js, and embedded Git Control, developed by GitHub
-* Visual Studio:
-* [Sublime Text](https://www.sublimetext.com/3)
+* [Atom](https://atom.io/): Free and open-source text and source code editor for macOS, Linux, and Microsoft Windows with support for plug-ins written in Node.js, and embedded Git Control, developed by GitHub
+* [Visual Studio](https://visualstudio.microsoft.com/): An integrated development environment (IDE) from Microsoft. It is used to develop computer programs, as well as websites, web apps, web services and mobile apps
+* [Sublime Text](https://www.sublimetext.com/3): A proprietary cross-platform source code editor with a Python application programming interface. It supports many programming languages and functions can be added by users with plugins, typically community-built and maintained under free-software licenses
 
 ## Web Design
 
