@@ -64,7 +64,7 @@ Initially taken from the 100 free useful software for students. This is an updat
 * [Space Sniffer](http://www.uderzo.it/main_products/space_sniffer/): Free application that lets you understand how folders and files are structured on your disks. By using a Treemap visualization layout, you have immediate perception of where big folders and files are placed on your device.
 * [7-Zip](https://www.7-zip.org/): Compress and decompress heavy files.
 * [Peazip](http://www.peazip.org/): A free file archiver utility, based on Open Source technologies of 7-Zip, p7zip, FreeArc, PAQ, and PEA projects
-* [FileZilla](Cross-platform FTP, SFTP, and FTPS client with a vast list of features, which supports Windows, Mac OS X, Linux, and more)
+* [FileZilla](https://filezilla-project.org/): Cross-platform FTP, SFTP, and FTPS client with a vast list of features, which supports Windows, Mac OS X, Linux, and more.
 
 ## Presentations
 
