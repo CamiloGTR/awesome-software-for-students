@@ -40,7 +40,7 @@ Initially taken from the 100 free useful software for students. This is an updat
 ## Mind Maps
 
 ## Diagrams
-*[Draw.io](https://www.draw.io/): Free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams
+* [Draw.io](https://www.draw.io/): Free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams
 
 ## Screen Recorder
 * [OBS](https://obsproject.com/): Free and open source software for video recording and live streaming.
@@ -115,8 +115,8 @@ Initially taken from the 100 free useful software for students. This is an updat
 * [Blender](https://www.blender.org/): A free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation. The program is optimized for productivity, and it doesn’t consider user experience, thus the learning curve is quite steep.
 
 ## DVD-CD
-*[Todoist]() Cross platafom tool for managing tasks.
-*[Trello]() Visual collaboration tool for planning tasks and projects.
+*[Todoist](https://todoist.com) Cross platafom tool for managing tasks.
+*[Trello](https://trello.com/) Visual collaboration tool for planning tasks and projects.
 
 ## Media Player
 * [VLC](https://www.videolan.org/vlc/index.html): Media Player with built-in codecs.
