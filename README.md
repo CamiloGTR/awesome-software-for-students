@@ -57,8 +57,8 @@ Initially taken from the 100 free useful software for students. This is an updat
 * [Whatsapp](https://www.whatsapp.com/): Freeware and cross-platform messaging and Voice over IP service owned by Facebook
 
 ## Flashcards
-* [Quizlet]()
-* []
+* [Quizlet](https://quizlet.com): A mobile and web-based study application that allows students to study information using flashcards (audio and images) and games, which are optional and automatically generated.
+* [Anki](https://apps.ankiweb.net/): A cross plataform software with spaced repetition system.
 
 ## File Management
 * [Space Sniffer](http://www.uderzo.it/main_products/space_sniffer/): Free application that lets you understand how folders and files are structured on your disks. By using a Treemap visualization layout, you have immediate perception of where big folders and files are placed on your device.
