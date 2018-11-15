@@ -12,8 +12,7 @@ Initially taken from the 100 free useful software for students. This is an updat
 
 ## Note Taking
 * [One Note](https://www.onenote.com/download): Microsoft app to take notes. It's quite useful if you use a pen or you can use a touchpad.
-* Abi Word:
-* [Google Keep](https://keep.google.com/): Google Keep is a note-taking service developed by Google
+* [Google Keep](https://keep.google.com/): Google Keep is a note-taking service developed by Google.
 * [Evernote](https://evernote.com/): Evernote is the app that keeps your notes organized. Memos are synced so they're accessible anywhere, and searchable so you always find what you need
 * [Dark Room](http://jjafuller.com/dark-room/): A full-screen text editor that makes writing on your computer like using a typewriter: an empty screen with just your words on it. Windows only
 * [Markdownify](https://markdownify.js.org/):  A minimal Markdown editor.
@@ -72,7 +71,7 @@ Initially taken from the 100 free useful software for students. This is an updat
 
 ## Email & Web
 * [Thunderbird](https://www.thunderbird.net): a free email application that's easy to set up and customize.
-* Firefox - Web browser with a large collection of add-ons available. It is backed by Mozilla, a non-profit organization that supports innovation, freedom, and an open Web.
+* [Firefox](): Web browser with a large collection of add-ons available. It is backed by Mozilla, a non-profit organization that supports innovation, freedom, and an open Web.
 
 ## Passwords
 * [Keepass](https://keepass.info/): KeePass is a free open source password manager, which helps you to manage your passwords in a secure way. You can put all your passwords in one database, which is locked with one master key or a key file.
@@ -81,7 +80,9 @@ Initially taken from the 100 free useful software for students. This is an updat
 ## Time Management
 * [Todoist](https://todoist.com) Cross platafom tool for managing tasks.
 * [Trello](https://trello.com/) Visual collaboration tool for planning tasks and projects.
-* [Wunderlist](https://www.wunderlist.com/) To-do list where users can manage manage their tasks from a smartphone, tablet, computer and smartwatch 
+* [Wunderlist](https://www.wunderlist.com/) To-do list where users can manage manage their tasks from a smartphone, tablet, computer and smartwatch.
+* [Google Keep](https://keep.google.com/): It can be used for easy to setup to-do lists.
+* [Evernote](https://evernote.com/): Same as [Google Keep](https://keep.google.com/).
 
 
 ## Music
