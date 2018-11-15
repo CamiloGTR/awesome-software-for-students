@@ -43,7 +43,7 @@ Initially taken from the 100 free useful software for students. This is an updat
 
 ## Screen Recorder
 * [OBS](https://obsproject.com/): Free and open source software for video recording and live streaming.
-* [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/):  Highly customisable screencasting program for linux.
+* [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/): Highly customisable screencasting program for linux.
 
 ## Chat & Study Groups
 * [Slack](https://slack.com/): It's a cloud-based set of proprietary team collaboration tools and services. Very popular among different workspaces. Video conference is paid though. 
@@ -71,15 +71,15 @@ Initially taken from the 100 free useful software for students. This is an updat
 
 ## Email & Web
 * [Thunderbird](https://www.thunderbird.net): a free email application that's easy to set up and customize.
-* [Firefox](): Web browser with a large collection of add-ons available. It is backed by Mozilla, a non-profit organization that supports innovation, freedom, and an open Web.
+* [Firefox](https://www.mozilla.org): Web browser with a large collection of add-ons available. It is backed by Mozilla, a non-profit organization that supports innovation, freedom, and an open Web.
 
 ## Passwords
 * [Keepass](https://keepass.info/): KeePass is a free open source password manager, which helps you to manage your passwords in a secure way. You can put all your passwords in one database, which is locked with one master key or a key file.
 * [Bitwarden](https://bitwarden.com/): A free and open source password management solution for individuals, teams, and business organizations. It allows you to host your own server with your passwords.
 
 ## Time Management
-* [Todoist](https://todoist.com) Cross platafom tool for managing tasks.
-* [Trello](https://trello.com/) Visual collaboration tool for planning tasks and projects.
+* [Todoist](https://todoist.com): Cross platafom tool for managing tasks.
+* [Trello](https://trello.com/): Visual collaboration tool for planning tasks and projects.
 * [Wunderlist](https://www.wunderlist.com/) To-do list where users can manage manage their tasks from a smartphone, tablet, computer and smartwatch.
 * [Google Keep](https://keep.google.com/): It can be used for easy to setup to-do lists.
 * [Evernote](https://evernote.com/): Same as [Google Keep](https://keep.google.com/).
@@ -101,10 +101,10 @@ Initially taken from the 100 free useful software for students. This is an updat
 * [GIMP](https://www.gimp.org/): GIMP is a cross-platform image editor available for GNU/Linux, OS X, Windows and more operating systems
 * [ShareX](https://getsharex.com/): A free and open-source screenshot and screencast utility for Microsoft Windows.
 * [Greenshot](http://getgreenshot.org/): A tool for making screenshots you can get on your Windows PC.
-* [Inkscape]() - Professional vector graphics editor for all platforms. (GNU GPL)
-* [Krita]() - Painting program made by artists. (GNU GPLv3)
-* [Pinta]() - Gtk# clone of Paint.NET. (MIT)
-* [Piskel]() - Online sprite editor. (Apache License 2.0)
+* [Inkscape]() - Professional vector graphics editor for all platforms.
+* [Krita](https://krita.org/) - Painting program made by artists.
+* [Pinta](https://pinta-project.com/pintaproject/pinta/) - Gtk# clone of Paint.NET.
+* [Piskel](https://www.piskelapp.com/) - Online sprite editor.
 
 
 ## Audio & Composition
@@ -159,6 +159,8 @@ _(*)Note: If your school/college provides you with an educational account to hav
 
 ## Utilities
 * [VirtualBox](https://www.virtualbox.org/): Feature rich virtualization tools with support for many operating systems.
-* [Ninite](https://ninite.com/): Install and update many programs at once. Many of the apps listed here are included in Ninite. It is quite useful after a clean installation of Windows.  
+* [Ninite](https://ninite.com/): Install and update many programs at once. Many of the apps listed here are included in Ninite. It is quite useful after a clean installation of Windows. 
+
 * [Privacy Badger](https://www.eff.org/privacybadger): Automatically learns to block invisible trackers to protect your privacy.
+* [HTTPS Everywhere](https://www.eff.org/https-everywhere): A Firefox, Chrome, and Opera extension that encrypts your communications with many major websites, making your browsing more secure.
 * [Pihole](https://pi-hole.net/): Network-wide ad blocking via your own Linux hardware. If you have a Raspberry laying around it might come handy for this project. 
