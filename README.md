@@ -79,9 +79,9 @@ Initially taken from the 100 free useful software for students. This is an updat
 * [Bitwarden](https://bitwarden.com/): A free and open source password management solution for individuals, teams, and business organizations. It allows you to host your own server with your passwords.
 
 ## Time Management
-*[Todoist](https://todoist.com) Cross platafom tool for managing tasks.
-*[Trello](https://trello.com/) Visual collaboration tool for planning tasks and projects.
-*[Wunderlist](https://www.wunderlist.com/) To-do list where users can manage manage their tasks from a smartphone, tablet, computer and smartwatch 
+* [Todoist](https://todoist.com) Cross platafom tool for managing tasks.
+* [Trello](https://trello.com/) Visual collaboration tool for planning tasks and projects.
+* [Wunderlist](https://www.wunderlist.com/) To-do list where users can manage manage their tasks from a smartphone, tablet, computer and smartwatch 
 
 
 ## Music
