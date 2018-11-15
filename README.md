@@ -15,7 +15,7 @@ Initially taken from the 100 free useful software for students. This is an updat
 * Abi Word:
 * [Google Keep](https://keep.google.com/): Google Keep is a note-taking service developed by Google
 * [Evernote](https://evernote.com/): Evernote is the app that keeps your notes organized. Memos are synced so they're accessible anywhere, and searchable so you always find what you need
-* [Dark Room](http://jjafuller.com/dark-room/): Darkroom is a full-screen text editor that makes writing on your computer like using a typewriter: an empty screen with just your words on it. Windows only
+* [Dark Room](http://jjafuller.com/dark-room/): A full-screen text editor that makes writing on your computer like using a typewriter: an empty screen with just your words on it. Windows only
 * [Markdownify](https://markdownify.js.org/):  A minimal Markdown editor.
 * [Etherpad](http://etherpad.org/): Customizable open source online editor providing collaborative editing in really real-time. 
 * [ZimWiki]() A wiki-style notebook that uses local file storage.
@@ -47,14 +47,14 @@ Initially taken from the 100 free useful software for students. This is an updat
 * [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/):  Highly customisable screencasting program for linux.
 
 ## Chat & Study Groups
-* [Slack](https://slack.com/): It's a cloud-based set of proprietary team collaboration tools and services. Very popular among different workspaces.
-* [Hangout]()
+* [Slack](https://slack.com/): It's a cloud-based set of proprietary team collaboration tools and services. Very popular among different workspaces. Video conference is paid though. 
+* [Hangout](https://hangouts.google.com/): Communication platform which includes messaging, video chat, SMS and VOIP features. Very easy and useful among Google users to setup a video conference. 
 * [Jitsi](https://jitsi.org/jitsi-meet/): Secure video conferencing and desktop sharing using WebRTC.
 * [Discord](https://discordapp.com/): Freeware VoIP application and digital distribution platform. Formally, it was intended to the videogaming community however there are many groups in different servers to learn or practice many subjects.
 * [Ring](https://ring.cx/): Telephone, teleconferencing, and media sharing through a distributed service.
 * [Telegram](https://telegram.org/): Cloud-based instant messaging and voice over IP service. It has many characteristics that other clients lack of of. However, if you're looking for private options, this is not the one you're looking for. 
 * [Signal](https://www.whispersystems.org/): Private messaging and calling for desktop, Android, and iOS.
-* [Whatsapp](https://www.whatsapp.com/): Freeware and cross-platform messaging and Voice over IP service owned by Facebook
+* [Whatsapp](https://www.whatsapp.com/): Freeware and cross-platform messaging and Voice over IP service owned by Facebook.
 
 ## Flashcards
 * [Quizlet](https://quizlet.com): A mobile and web-based study application that allows students to study information using flashcards (audio and images) and games, which are optional and automatically generated.
@@ -142,13 +142,15 @@ Initially taken from the 100 free useful software for students. This is an updat
 ## Security
 * [Malwarebytes](https://www.malwarebytes.com/) Find and remove malware from your computer. Although, you can pay for the PRO edition, the free version should be enough. 
 * [Windows Defender](https://www.microsoft.com/en-us/windows/comprehensive-security): On Windows 10, you already hace this tool which is able to replace most of of previous popular antivirus softwares as far as you take care of yuour behavious online. 
+
 ## Career Tools
 
+
 ## Cloud Storage
-* (*)[Google Drive](https://drive.google.com/):  15 GB shared between Google Photos, Gmail and Google Drive. [These elements](https://www.screencast.com/t/3LKLupSMT) count towards your quota, while [these others](https://www.screencast.com/t/vfzu591AA) don't. [Plans here](https://www.google.com/intl/en-GB_ALL/drive/pricing/).
-* (*)[One Drive](https://onedrive.live.com/): 5GB storage. [Plans here](https://onedrive.live.com/about/en-US/plans/).
-* [Dropbox](https://www.dropbox.com/): 2GB storage. [Plans here](https://www.dropbox.com/individual/plans-comparison)
-* Mega: 15GB Storage. [Plans here](https://mega.nz/pro).
+* [Google Drive](https://drive.google.com/):  15 GB shared between Google Photos, Gmail and Google Drive. [These elements](https://www.screencast.com/t/3LKLupSMT) count towards your quota, while [these others](https://www.screencast.com/t/vfzu591AA) don't. [Plans here]() (*).(https://www.google.com/intl/en-GB_ALL/drive/pricing/).
+* [One Drive](https://onedrive.live.com/): 5GB storage. [Plans here](https://onedrive.live.com/about/en-US/plans/) (*).
+* [Dropbox](https://www.dropbox.com/): 2GB storage. [Plans here]()(https://www.dropbox.com/individual/plans-comparison)
+* [Mega](https://mega.nz/): 15GB Storage. [Plans here](https://mega.nz/pro).
 * [Resilio](https://www.resilio.com/): Fast p2p file sync software for enterprises and individuals that performs on any machine, data, scale, or network
 
 _(*)Note: If your school/college provides you with an educational account to have unlimited storage in Google Drive or 1TB in Onedrive keep in mind that the account could be deleted if you drop out/graduate._
