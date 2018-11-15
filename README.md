@@ -17,7 +17,7 @@ Initially taken from the 100 free useful software for students. This is an updat
 * [Dark Room](http://jjafuller.com/dark-room/): A full-screen text editor that makes writing on your computer like using a typewriter: an empty screen with just your words on it. Windows only
 * [Markdownify](https://markdownify.js.org/):  A minimal Markdown editor.
 * [Etherpad](http://etherpad.org/): Customizable open source online editor providing collaborative editing in really real-time. 
-* [ZimWiki]() A wiki-style notebook that uses local file storage.
+* [ZimWiki](http://zim-wiki.org/) A wiki-style notebook, for Linux and Windows, that uses local file storage.
 
 ## Reading
 * [Adobe Acrobat](https://get.adobe.com/reader/): The most popular pdf viewer. It allows you to create, manipulate, print and manage pdf files.
