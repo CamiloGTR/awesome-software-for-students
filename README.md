@@ -87,8 +87,8 @@ Initially taken from the 100 free useful software for students. This is an updat
 
 ## Music
 * [Foobar2000](https://www.foobar2000.org/): an advanced freeware audio player for the Windows platform.
-* [Media Monkey](https://www.mediamonkey.com/)
-* [MusicBee](https://getmusicbee.com/)
+* [Media Monkey](https://www.mediamonkey.com/) - A digital media player and media library application. For windows only.
+* [MusicBee](https://getmusicbee.com/) -  Freeware media player for playback and organization of audio files on Microsoft Windows.
 * [Clementine](https://www.clementine-player.org/): Clementine is a multiplatform music player. It is inspired by [Amarok 1.4](https://amarok.kde.org/), focusing on a fast and easy-to-use interface for searching and playing your music.
 
 
