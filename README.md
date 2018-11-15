@@ -11,49 +11,49 @@ Initially taken from the 100 free useful software for students. This is an updat
 * [Zoho](https://www.zoho.com/) - Web-based office suite containing many tools such as wikis, web conferencing, customer relationship management, project management, invoicing, and other applications.
 
 ## Note Taking
-* [One Note](https://www.onenote.com/download): Microsoft app to take notes. It's quite useful if you use a pen or you can use a touchpad.
-* [Google Keep](https://keep.google.com/): Note-taking service developed by Google.
-* [Evernote](https://evernote.com/): App that keeps your notes organized. Memos are synced so they're accessible anywhere, and searchable so you always find what you need
-* [Dark Room](http://jjafuller.com/dark-room/): A full-screen text editor that makes writing on your computer like using a typewriter: an empty screen with just your words on it. Windows only
-* [Markdownify](https://markdownify.js.org/):  A minimal Markdown editor.
-* [Etherpad](http://etherpad.org/): Customizable open source online editor providing collaborative editing in really real-time. 
-* [ZimWiki](http://zim-wiki.org/) A wiki-style notebook, for Linux and Windows, that uses local file storage.
+* [One Note](https://www.onenote.com/download) - Microsoft app to take notes. It's quite useful if you use a pen or you can use a touchpad.
+* [Google Keep](https://keep.google.com/) - Note-taking service developed by Google.
+* [Evernote](https://evernote.com/) - App that keeps your notes organized. Memos are synced so they're accessible anywhere, and searchable so you always find what you need
+* [Dark Room](http://jjafuller.com/dark-room/) - A full-screen text editor that makes writing on your computer like using a typewriter: an empty screen with just your words on it. Windows only
+* [Markdownify](https://markdownify.js.org/) -  A minimal Markdown editor.
+* [Etherpad](http://etherpad.org/) - Customizable open source online editor providing collaborative editing in really real-time. 
+* [ZimWiki](http://zim-wiki.org/) - A wiki-style notebook, for Linux and Windows, that uses local file storage.
 
 ## Reading
-* [Adobe Acrobat](https://get.adobe.com/reader/): The most popular pdf viewer. It allows you to create, manipulate, print and manage pdf files.
-* [Foxit Reader](https://www.foxitsoftware.com/pdf-reader/): Freemium PDF tool that can create, view, edit, digitally sign, and print PDF files
-* [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader.html): PDF, eBook (ePub, Mobi), XPS, DjVu, CHM, Comic Book (CBZ and CBR) reader for Windows.
-* [WinDjView](https://sourceforge.net/projects/windjview/): Fast, compact and powerful DjVu viewer for Windows with tabbed interface, continuous scrolling and advanced printing options, based on free DjVuLibre library.
+* [Adobe Acrobat](https://get.adobe.com/reader/) - The most popular pdf viewer. It allows you to create, manipulate, print and manage pdf files.
+* [Foxit Reader](https://www.foxitsoftware.com/pdf-reader/) - Freemium PDF tool that can create, view, edit, digitally sign, and print PDF files
+* [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader.html) - PDF, eBook (ePub, Mobi), XPS, DjVu, CHM, Comic Book (CBZ and CBR) reader for Windows.
+* [WinDjView](https://sourceforge.net/projects/windjview/) - Fast, compact and powerful DjVu viewer for Windows with tabbed interface, continuous scrolling and advanced printing options, based on free DjVuLibre library.
 
 
 ## Citations
-* [Zotero](https://www.zotero.org/): An easy-to-use tool to help you collect, organize, cite, and share research
+* [Zotero](https://www.zotero.org/) - An easy-to-use tool to help you collect, organize, cite, and share research
 
 ## Writing Papers
-* [Overleaf](https://www.overleaf.com/): An online LaTeX editor that's easy to use. No installation, real-time collaboration, version control, hundreds of LaTeX templates, and more.
-* [LaTeX](https://www.latex-project.org/): High-quality typesetting system; it includes features designed for the production of technical and scientific documentation
-* [Jabref](http://www.jabref.org/): Open source bibliography reference manager. The native file format used by JabRef is BibTeX, the standard LaTeX bibliography format. JabRef is a desktop application and runs on the Java VM (version 8).
-* [Lyx](https://www.lyx.org/): Document processor that encourages an approach to writing based on the structure of your documents and not simply their appearance
+* [Overleaf](https://www.overleaf.com/) - An online LaTeX editor that's easy to use. No installation, real-time collaboration, version control, hundreds of LaTeX templates, and more.
+* [LaTeX](https://www.latex-project.org/) - High-quality typesetting system; it includes features designed for the production of technical and scientific documentation
+* [Jabref](http://www.jabref.org/) - Open source bibliography reference manager. The native file format used by JabRef is BibTeX, the standard LaTeX bibliography format. JabRef is a desktop application and runs on the Java VM (version 8).
+* [Lyx](https://www.lyx.org/) - Document processor that encourages an approach to writing based on the structure of your documents and not simply their appearance
 
 
 ## Mind Maps
 
 ## Diagrams
-* [Draw.io](https://www.draw.io/): Free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams
+* [Draw.io](https://www.draw.io/) - Free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams
 
 ## Screen Recorder
-* [OBS](https://obsproject.com/): Free and open source software for video recording and live streaming.
-* [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/): Highly customisable screencasting program for linux.
+* [OBS](https://obsproject.com/) - Free and open source software for video recording and live streaming.
+* [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/) - Highly customisable screencasting program for linux.
 
 ## Chat & Study Groups
-* [Slack](https://slack.com/): It's a cloud-based set of proprietary team collaboration tools and services. Very popular among different workspaces. Video conference is paid though. 
-* [Hangout](https://hangouts.google.com/): Communication platform which includes messaging, video chat, SMS and VOIP features. Very easy and useful among Google users to setup a video conference. 
-* [Jitsi](https://jitsi.org/jitsi-meet/): Secure video conferencing and desktop sharing using WebRTC.
-* [Discord](https://discordapp.com/): Freeware VoIP application and digital distribution platform. Formally, it was intended to the videogaming community however there are many groups in different servers to learn or practice many subjects.
-* [Ring](https://ring.cx/): Telephone, teleconferencing, and media sharing through a distributed service.
-* [Telegram](https://telegram.org/): Cloud-based instant messaging and voice over IP service. It has many characteristics that other clients lack of of. However, if you're looking for private options, this is not the one you're looking for. 
-* [Signal](https://www.whispersystems.org/): Private messaging and calling for desktop, Android, and iOS.
-* [Whatsapp](https://www.whatsapp.com/): Freeware and cross-platform messaging and Voice over IP service owned by Facebook.
+* [Slack](https://slack.com/) - It's a cloud-based set of proprietary team collaboration tools and services. Very popular among different workspaces. Video conference is paid though. 
+* [Hangout](https://hangouts.google.com/) - Communication platform which includes messaging, video chat, SMS and VOIP features. Very easy and useful among Google users to setup a video conference. 
+* [Jitsi](https://jitsi.org/jitsi-meet/) - Secure video conferencing and desktop sharing using WebRTC.
+* [Discord](https://discordapp.com/) - Freeware VoIP application and digital distribution platform. Formally, it was intended to the videogaming community however there are many groups in different servers to learn or practice many subjects.
+* [Ring](https://ring.cx/) - Telephone, teleconferencing, and media sharing through a distributed service.
+* [Telegram](https://telegram.org/) - Cloud-based instant messaging and voice over IP service. It has many characteristics that other clients lack of of. However, if you're looking for private options, this is not the one you're looking for. 
+* [Signal](https://www.whispersystems.org/) - Private messaging and calling for desktop, Android, and iOS.
+* [Whatsapp](https://www.whatsapp.com/) - Freeware and cross-platform messaging and Voice over IP service owned by Facebook.
 
 ## Flashcards
 * [Quizlet](https://quizlet.com): A mobile and web-based study application that allows students to study information using flashcards (audio and images) and games, which are optional and automatically generated.
