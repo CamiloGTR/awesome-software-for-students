@@ -79,8 +79,10 @@ Initially taken from the 100 free useful software for students. This is an updat
 * [Bitwarden](https://bitwarden.com/): A free and open source password management solution for individuals, teams, and business organizations. It allows you to host your own server with your passwords.
 
 ## Time Management
-* []()
-* []()
+*[Todoist](https://todoist.com) Cross platafom tool for managing tasks.
+*[Trello](https://trello.com/) Visual collaboration tool for planning tasks and projects.
+*[Wunderlist](https://www.wunderlist.com/) To-do list where users can manage manage their tasks from a smartphone, tablet, computer and smartwatch 
+
 
 ## Music
 * [Foobar2000](https://www.foobar2000.org/): an advanced freeware audio player for the Windows platform.
@@ -115,8 +117,8 @@ Initially taken from the 100 free useful software for students. This is an updat
 * [Blender](https://www.blender.org/): A free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation. The program is optimized for productivity, and it doesn’t consider user experience, thus the learning curve is quite steep.
 
 ## DVD-CD
-*[Todoist](https://todoist.com) Cross platafom tool for managing tasks.
-*[Trello](https://trello.com/) Visual collaboration tool for planning tasks and projects.
+[ImgBurn](http://www.imgburn.com/): Burning images to discs, it can write files to discs, as well as create images from discs or files
+[CDBurnerXP](https://cdburnerxp.se): Burn CDs and DVDs, including Blu-Ray. It also includes the feature to burn and create ISOs
 
 ## Media Player
 * [VLC](https://www.videolan.org/vlc/index.html): Media Player with built-in codecs.
@@ -144,7 +146,7 @@ Initially taken from the 100 free useful software for students. This is an updat
 
 ## Cloud Storage
 * Google Drive(*):  15 GB shared between Google Photos, Gmail and Google Drive. [These elements](https://www.screencast.com/t/3LKLupSMT) count towards your quota, while [these others](https://www.screencast.com/t/vfzu591AA) don't. [Plans here](https://www.google.com/intl/en-GB_ALL/drive/pricing/).
-* One Drive(*): 5GB storage. [Plans here](https://onedrive.live.com/about/en-US/plans/).
+* [One Drive] (https://onedrive.live.com/): 5GB storage. [Plans here](https://onedrive.live.com/about/en-US/plans/).
 * Dropbox: 2GB storage. [Plans here](https://www.dropbox.com/individual/plans-comparison)
 * Mega: 15GB Storage. [Plans here](https://mega.nz/pro).
 * [Resilio](https://www.resilio.com/): Fast p2p file sync software for enterprises and individuals that performs on any machine, data, scale, or network
