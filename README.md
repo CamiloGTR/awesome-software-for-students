@@ -6,14 +6,14 @@ Initially taken from the 100 free useful software for students. This is an updat
 
 ## Office Suite
 * [Google Docs](https://www.google.com/docs/about/): Collaborative  editing and styling tools to help you easily format text and paragraphs.
-* [Microsoft Office Online](https://www.office.com/) (*): Online office suite offered by Microsoft, which allows users to create and edit files using lightweight Office web apps (Word, Excel, PowerPoint and OneNote).
+* [Microsoft Office Online](https://www.office.com/): Online office suite offered by Microsoft, which allows users to create and edit files using lightweight Office web apps (Word, Excel, PowerPoint and OneNote).
 * [Libre Office](https://www.libreoffice.org/): Free office suite, open source, and compatible with .doc, .docx, .xls, .xlsx, .ppt, .pptx files. Updated regularly.
 * [Zoho](https://www.zoho.com/): Web-based office suite containing many tools such as wikis, web conferencing, customer relationship management, project management, invoicing, and other applications.
 
 ## Note Taking
 * [One Note](https://www.onenote.com/download): Microsoft app to take notes. It's quite useful if you use a pen or you can use a touchpad.
-* [Google Keep](https://keep.google.com/): Google Keep is a note-taking service developed by Google.
-* [Evernote](https://evernote.com/): Evernote is the app that keeps your notes organized. Memos are synced so they're accessible anywhere, and searchable so you always find what you need
+* [Google Keep](https://keep.google.com/): Note-taking service developed by Google.
+* [Evernote](https://evernote.com/): App that keeps your notes organized. Memos are synced so they're accessible anywhere, and searchable so you always find what you need
 * [Dark Room](http://jjafuller.com/dark-room/): A full-screen text editor that makes writing on your computer like using a typewriter: an empty screen with just your words on it. Windows only
 * [Markdownify](https://markdownify.js.org/):  A minimal Markdown editor.
 * [Etherpad](http://etherpad.org/): Customizable open source online editor providing collaborative editing in really real-time. 
@@ -30,8 +30,8 @@ Initially taken from the 100 free useful software for students. This is an updat
 * [Zotero](https://www.zotero.org/): An easy-to-use tool to help you collect, organize, cite, and share research
 
 ## Writing Papers
+* [Overleaf](https://www.overleaf.com/): An online LaTeX editor that's easy to use. No installation, real-time collaboration, version control, hundreds of LaTeX templates, and more.
 * [LaTeX](https://www.latex-project.org/): High-quality typesetting system; it includes features designed for the production of technical and scientific documentation
-* [Overleaf](https://www.overleaf.com/): An online LaTeX editor that's easy to use. No installation, real-time collaboration, version control, hundreds of LaTeX templates, and more
 * [Jabref](http://www.jabref.org/): Open source bibliography reference manager. The native file format used by JabRef is BibTeX, the standard LaTeX bibliography format. JabRef is a desktop application and runs on the Java VM (version 8).
 * [Lyx](https://www.lyx.org/): Document processor that encourages an approach to writing based on the structure of your documents and not simply their appearance
 
@@ -97,8 +97,6 @@ Initially taken from the 100 free useful software for students. This is an updat
 * [Da Vinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/): It's the world’s first solution that combines professional offline and online editing, color correction, audio post production and now visual effects all in one software tool
 * [OpenShots](https://www.openshot.org/): OpenShot is an award-winning free and open-source video editor for Linux, Mac, and Windows.
 
-## Health
-
 ## Photos & Images
 * [GIMP](https://www.gimp.org/): GIMP is a cross-platform image editor available for GNU/Linux, OS X, Windows and more operating systems
 * [ShareX](https://getsharex.com/): A free and open-source screenshot and screencast utility for Microsoft Windows.
@@ -155,9 +153,12 @@ Initially taken from the 100 free useful software for students. This is an updat
 * [Resilio](https://www.resilio.com/): Fast p2p file sync software for enterprises and individuals that performs on any machine, data, scale, or network
 
 _(*)Note: If your school/college provides you with an educational account to have unlimited storage in Google Drive or 1TB in Onedrive keep in mind that the account could be deleted if you drop out/graduate._
+
 ## Finances
 * [GNU Cash](https://www.gnucash.org/): Multiplatform personal and small-business financial-accounting software.
 
 ## Utilities
 * [VirtualBox](https://www.virtualbox.org/): Feature rich virtualization tools with support for many operating systems.
 * [Ninite](https://ninite.com/): Install and update many programs at once. Many of the apps listed here are included in Ninite. It is quite useful after a clean installation of Windows.  
+* [Privacy Badger](https://www.eff.org/privacybadger): Automatically learns to block invisible trackers to protect your privacy.
+* [Pihole](https://pi-hole.net/): Network-wide ad blocking via your own Linux hardware. If you have a Raspberry laying around it might come handy for this project. 
