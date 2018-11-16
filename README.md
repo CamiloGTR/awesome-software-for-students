@@ -146,7 +146,7 @@ Initially taken from the 100 free useful software for students. This is an updat
 
 
 ## Cloud Storage
-* [Google Drive](https://drive.google.com/):  15 GB shared between Google Photos, Gmail and Google Drive. [These elements](https://www.screencast.com/t/3LKLupSMT) count towards your quota, while [these others](https://www.screencast.com/t/vfzu591AA) don't. [Plans here]() (*).(https://www.google.com/intl/en-GB_ALL/drive/pricing/).
+* [Google Drive](https://drive.google.com/):  15 GB shared between Google Photos, Gmail and Google Drive. [These elements](https://www.screencast.com/t/3LKLupSMT) count towards your quota, while [these others](https://www.screencast.com/t/vfzu591AA) don't. [Plans here](https://one.google.com/getupdates) (*).
 * [One Drive](https://onedrive.live.com/): 5GB storage. [Plans here](https://onedrive.live.com/about/en-US/plans/) (*).
 * [Dropbox](https://www.dropbox.com/): 2GB storage. [Plans here]()(https://www.dropbox.com/individual/plans-comparison)
 * [Mega](https://mega.nz/): 15GB Storage. [Plans here](https://mega.nz/pro).
@@ -160,7 +160,6 @@ _(*)Note: If your school/college provides you with an educational account to hav
 ## Utilities
 * [VirtualBox](https://www.virtualbox.org/): Feature rich virtualization tools with support for many operating systems.
 * [Ninite](https://ninite.com/): Install and update many programs at once. Many of the apps listed here are included in Ninite. It is quite useful after a clean installation of Windows. 
-
 * [Privacy Badger](https://www.eff.org/privacybadger): Automatically learns to block invisible trackers to protect your privacy.
 * [HTTPS Everywhere](https://www.eff.org/https-everywhere): A Firefox, Chrome, and Opera extension that encrypts your communications with many major websites, making your browsing more secure.
 * [Pihole](https://pi-hole.net/): Network-wide ad blocking via your own Linux hardware. If you have a Raspberry laying around it might come handy for this project. 
