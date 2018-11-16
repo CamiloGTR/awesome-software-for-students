@@ -76,6 +76,7 @@ Initially taken from the 100 free useful software for students. This is an updat
 ## Passwords
 * [Keepass](https://keepass.info/): KeePass is a free open source password manager, which helps you to manage your passwords in a secure way. You can put all your passwords in one database, which is locked with one master key or a key file.
 * [Bitwarden](https://bitwarden.com/): A free and open source password management solution for individuals, teams, and business organizations. It allows you to host your own server with your passwords.
+* [Buttercup](https://buttercup.pw/) - 
 
 ## Time Management
 * [Todoist](https://todoist.com): Cross platafom tool for managing tasks.
