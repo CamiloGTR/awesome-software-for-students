@@ -46,6 +46,7 @@ Initially taken from the 100 free useful software for students. This is an updat
 * [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/) - Highly customisable screencasting program for linux.
 
 ## Chat & Study Groups
+* [Appearin(https://appear.in/)] - 
 * [Slack](https://slack.com/) - It's a cloud-based set of proprietary team collaboration tools and services. Very popular among different workspaces. Video conference is paid though. 
 * [Hangout](https://hangouts.google.com/) - Communication platform which includes messaging, video chat, SMS and VOIP features. Very easy and useful among Google users to setup a video conference. 
 * [Jitsi](https://jitsi.org/jitsi-meet/) - Secure video conferencing and desktop sharing using WebRTC.
