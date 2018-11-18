@@ -166,7 +166,7 @@ _(*): If your school/college provides you with an educational account to have un
 * [HTTPS Everywhere](https://www.eff.org/https-everywhere): A Firefox, Chrome, and Opera extension that encrypts your communications with many major websites, making your browsing more secure.
 * [Pihole](https://pi-hole.net/): Network-wide ad blocking via your own Linux hardware. If you have a Raspberry laying around it might come handy for this project. 
 
-Contribute
+## Contribute
 Contributions welcome! Read [the contribution guidelines first](https://github.com/CamiloGTR/School-Software/blob/master/contributing.md).
 
 ## License
