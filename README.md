@@ -1,4 +1,4 @@
-# School-Software
+# School-Software [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 Initially taken from the 100 free useful software for students. This is an update and curated version of [this infography](https://i.imgur.com/0e07EWn.jpg) inspired by [this list](https://github.com/Igglybuff/awesome-piracy). 
 
 ## Contents
