@@ -46,12 +46,12 @@ Initially taken from the 100 free useful software for students. This is an updat
 * [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/) - Highly customisable screencasting program for linux.
 
 ## Chat & Study Groups
+* [Jitsi](https://jitsi.org/jitsi-meet/) - Secure video conferencing and desktop sharing using WebRTC.
+* [Ring](https://ring.cx/) - Telephone, teleconferencing, and media sharing through a distributed service.
 * [Appearin](https://appear.in/) - A video collaboration tool that lets you have video conversations effortlessly without requiring any downloads. PRO supports up to 12 people simultaneously.
 * [Slack](https://slack.com/) - It's a cloud-based set of proprietary team collaboration tools and services. Very popular among different workspaces. Video conference is paid though. 
 * [Hangout](https://hangouts.google.com/) - Communication platform which includes messaging, video chat, SMS and VOIP features. Very easy and useful among Google users to setup a video conference. 
-* [Jitsi](https://jitsi.org/jitsi-meet/) - Secure video conferencing and desktop sharing using WebRTC.
 * [Discord](https://discordapp.com/) - Freeware VoIP application and digital distribution platform. Formally, it was intended to the videogaming community however there are many groups in different servers to learn or practice many subjects.
-* [Ring](https://ring.cx/) - Telephone, teleconferencing, and media sharing through a distributed service.
 * [Telegram](https://telegram.org/) - Cloud-based instant messaging and voice over IP service. It has many characteristics that other clients lack of of. However, if you're looking for private options, this is not the one you're looking for. 
 * [Signal](https://www.whispersystems.org/) - Private messaging and calling for desktop, Android, and iOS.
 * [Whatsapp](https://www.whatsapp.com/) - Freeware and cross-platform messaging and Voice over IP service owned by Facebook.
@@ -61,12 +61,14 @@ Initially taken from the 100 free useful software for students. This is an updat
 * [Anki](https://apps.ankiweb.net/) - A cross plataform software with spaced repetition system.
 
 ## File Management
-* [Space Sniffer](http://www.uderzo.it/main_products/space_sniffer/) - Free application that lets you understand how folders and files are structured on your disks. By using a Treemap visualization layout, you have immediate perception of where big folders and files are placed on your device.
 * [7-Zip](https://www.7-zip.org/) - Compress and decompress heavy files.
-* [Peazip](http://www.peazip.org/) - A free file archiver utility, based on Open Source technologies of 7-Zip, p7zip, FreeArc, PAQ, and PEA projects
+* [Peazip](http://www.peazip.org/) - A free file archiver utility, based on Open Source technologies of 7-Zip, p7zip, FreeArc, PAQ, and PEA projects.
+* [Space Sniffer](http://www.uderzo.it/main_products/space_sniffer/) - Free application that lets you understand how folders and files are structured on your disks. By using a Treemap visualization layout, you have immediate perception of where big folders and files are placed on your device.
 * [FileZilla](https://filezilla-project.org/) - Cross-platform FTP, SFTP, and FTPS client with a vast list of features, which supports Windows, Mac OS X, Linux, and more.
 
 ## Presentations
+* [Sway](https://sway.office.com/) - A presentation program and is part of the Microsoft Office family of products.
+* [Prezi](https://prezi.com/) - Web-based app to make presentations.
 
 ## Organization Tools
 
@@ -77,7 +79,7 @@ Initially taken from the 100 free useful software for students. This is an updat
 ## Passwords
 * [Keepass](https://keepass.info/) - KeePass is a free open source password manager, which helps you to manage your passwords in a secure way. You can put all your passwords in one database, which is locked with one master key or a key file.
 * [Bitwarden](https://bitwarden.com/) - A free and open source password management solution for individuals, teams, and business organizations. It allows you to host your own server with your passwords.
-* [Buttercup](https://buttercup.pw/) - 
+* [Buttercup](https://buttercup.pw/) -  A beautifully-simple password manager designed to help manage your credentials.
 
 ## Time Management
 * [Todoist](https://todoist.com) - Cross platafom tool for managing tasks.
@@ -88,21 +90,22 @@ Initially taken from the 100 free useful software for students. This is an updat
 
 
 ## Music
-* [Foobar2000](https://www.foobar2000.org/) - an advanced freeware audio player for the Windows platform.
+* [Foobar2000](https://www.foobar2000.org/) - An advanced freeware audio player for the Windows platform.
 * [Media Monkey](https://www.mediamonkey.com/) - A digital media player and media library application. For windows only.
-* [MusicBee](https://getmusicbee.com/) - Freeware media player for playback and organization of audio files on Microsoft Windows.
+* [MusicBee](https://getmusicbee.com/) - A freeware media player for playback and organization of audio files on Microsoft Windows.
 * [Clementine](https://www.clementine-player.org/) - A multiplatform music player. It is inspired by [Amarok 1.4](https://amarok.kde.org/), focusing on a fast and easy-to-use interface for searching and playing your music.
 
 
 ## Video Editing
-* [HitFilm Express](https://fxhome.com/express) - Video editing, VFX, and all the power you need to make something cool. Take your first step towards pro-filmmaking with our free starter software: HitFilm Express. Perfect for students, YouTubers, and beginner filmmakers
-* [Da Vinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - It's the world’s first solution that combines professional offline and online editing, color correction, audio post production and now visual effects all in one software tool
+* [HitFilm Express](https://fxhome.com/express) - Video editing and VFX. Perfect for students, YouTubers, and beginner filmmakers.
+* [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - A cross-platform software editing video.
 * [OpenShots](https://www.openshot.org/) - A free and open-source video editor for Linux, Mac, and Windows.
 
 ## Photos & Images
-* [GIMP](https://www.gimp.org/) - GIMP is a cross-platform image editor available for GNU/Linux, OS X, Windows and more operating systems
-* [ShareX](https://getsharex.com/) - A free and open-source screenshot and screencast utility for Microsoft Windows.
-* [Greenshot](http://getgreenshot.org/) - A tool for making screenshots you can get on your Windows PC.
+* [GIMP](https://www.gimp.org/) - A cross-platform image editor available for GNU/Linux, OS X, Windows and more operating systems.
+* [Shutter](http://shutter-project.org/) - A feature-rich screenshot program for Linux based operating systems such as Ubuntu.
+* [ShareX](https://getsharex.com/) - A free and open-source screenshot and screencast utility for  Windows.
+* [Greenshot](http://getgreenshot.org/) - A tool for making screenshots for Windows.
 * [Inkscape]() - Professional vector graphics editor for all platforms.
 * [Krita](https://krita.org/) - Painting program made by artists.
 * [Pinta](https://pinta-project.com/pintaproject/pinta/) - Gtk# clone of Paint.NET.
@@ -160,6 +163,8 @@ _(*): If your school/college provides you with an educational account to have un
 * [GNU Cash](https://www.gnucash.org/) - Multiplatform personal and small-business financial-accounting software.
 
 ## Utilities
+* [Teamviewer] - A proprietary cross-platform software for remote control, desktop sharing, online meetings, web conferencing and file transfer between computers. 
+* [Anydesk] - A proprietary cross-platform remote desktop.
 * [VirtualBox](https://www.virtualbox.org/) - Feature rich virtualization tools with support for many operating systems.
 * [Ninite](https://ninite.com/) - Install and update many programs at once. Many of the apps listed here are included in Ninite. It is quite useful after a clean installation of Windows. 
 * [Privacy Badger](https://www.eff.org/privacybadger) - Automatically learns to block invisible trackers to protect your privacy.
