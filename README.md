@@ -149,8 +149,8 @@ Initially taken from the 100 free useful software for students. This is an updat
 * [NetBeans](https://netbeans.org/) - an integrated development environment for Java.
 
 ## Math
-* [Sagemath](https://www.sagemath.org/) - SageMath is a free open-source mathematics software system licensed under the GPL.
-* [Desmos](https://www.desmos.com/) - Calculator, graph functions, plot data, evaluate equations, explore transformations, and much more
+* [Sagemath](https://www.sagemath.org/) - An open-source mathematics software system licensed under the GPL.
+* [Desmos](https://www.desmos.com/) - A free calculator, graph functions, plot data, evaluate equations, explore transformations, among other functions.
 
 ## Data & Statistics
 * [Powerbi](https://powerbi.microsoft.com/en-us/) - A business analytics service provided by Microsoft. It provides interactive visualizations od data.
@@ -160,7 +160,7 @@ Initially taken from the 100 free useful software for students. This is an updat
 
 ## Security
 * [Malwarebytes](https://www.malwarebytes.com/) - Find and remove malware from your computer. Although, you can pay for the PRO edition, the free version should be enough. 
-* [Windows Defender](https://www.microsoft.com/en-us/windows/comprehensive-security) - On Windows 10, you already hace this tool which is able to replace most of of previous popular antivirus softwares as far as you take care of yuour behavious online. 
+* [Windows Defender](https://www.microsoft.com/en-us/windows/comprehensive-security) - On Windows 10, you already hace this tool which is able to replace most of of previous popular antivirus softwares as far as you take care of your behavious online. 
 
 ## Remote Control
 * [Teamviewer] - A proprietary cross-platform software for remote control, desktop sharing, online meetings, web conferencing and file transfer between computers. 
