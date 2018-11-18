@@ -65,12 +65,12 @@ Initially taken from the 100 free useful software for students. This is an updat
 * [Peazip](http://www.peazip.org/) - A free file archiver utility, based on Open Source technologies of 7-Zip, p7zip, FreeArc, PAQ, and PEA projects.
 * [Space Sniffer](http://www.uderzo.it/main_products/space_sniffer/) - Free application that lets you understand how folders and files are structured on your disks. By using a Treemap visualization layout, you have immediate perception of where big folders and files are placed on your device.
 * [FileZilla](https://filezilla-project.org/) - Cross-platform FTP, SFTP, and FTPS client with a vast list of features, which supports Windows, Mac OS X, Linux, and more.
+* [Calibre](https://calibre-ebook.com/) - A cross-platform suite for organizing existing e-books into virtual libraries, displaying, editing, creating and converting e-books, as well as syncing e-books with a variety of e-readers
 
 ## Presentations
 * [Sway](https://sway.office.com/) - A presentation program and is part of the Microsoft Office family of products.
 * [Prezi](https://prezi.com/) - Web-based app to make presentations.
 
-## Organization Tools
 
 ## Email & Web
 * [Thunderbird](https://www.thunderbird.net) - a free email application that's easy to set up and customize.
@@ -87,6 +87,7 @@ Initially taken from the 100 free useful software for students. This is an updat
 * [Wunderlist](https://www.wunderlist.com/) To-do list where users can manage manage their tasks from a smartphone, tablet, computer and smartwatch.
 * [Google Keep](https://keep.google.com/) - It can be used for easy to setup to-do lists.
 * [Evernote](https://evernote.com/) - Same as [Google Keep](https://keep.google.com/).
+* [ColdTurkey](https://getcoldturkey.com/) - Block digital distractions so you can be more productive and focus on what's most important to you
 
 
 ## Music
@@ -103,10 +104,11 @@ Initially taken from the 100 free useful software for students. This is an updat
 
 ## Photos & Images
 * [GIMP](https://www.gimp.org/) - A cross-platform image editor available for GNU/Linux, OS X, Windows and more operating systems.
+* [Pixlr](https://pixlr.com/) - A cloud-based set of image tools and utilities, including a number of photo editors, a screen recorder browser extension, and a photo sharing service.
 * [Shutter](http://shutter-project.org/) - A feature-rich screenshot program for Linux based operating systems such as Ubuntu.
 * [ShareX](https://getsharex.com/) - A free and open-source screenshot and screencast utility for  Windows.
 * [Greenshot](http://getgreenshot.org/) - A tool for making screenshots for Windows.
-* [Inkscape]() - Professional vector graphics editor for all platforms.
+* [Inkscape](https://inkscape.org/) - Professional vector graphics editor for all platforms.
 * [Krita](https://krita.org/) - Painting program made by artists.
 * [Pinta](https://pinta-project.com/pintaproject/pinta/) - Gtk# clone of Paint.NET.
 * [Piskel](https://www.piskelapp.com/) - Online sprite editor.
@@ -116,39 +118,54 @@ Initially taken from the 100 free useful software for students. This is an updat
 * [Audacity](https://www.audacityteam.org/) - Audacity is an easy-to-use, multi-track audio editor and recorder for Windows, Mac OS X, GNU/Linux and other operating systems
 * [LMMS](https://lmms.io/) - A free, cross-platform tool to create music.
 * [Exact Audio Copy](http://www.exactaudiocopy.de/en/index.php/resources/download/): CD-Ripper popular among audiophiles for its accuracy and ability to rip slightly damaged audio compact discs.[Tutorial](https://github.com/flacfan/EAC-Guides/blob/master/part-2-ripping.md#ripping).
+* [Musescore](https://musescore.org/en) - A free and freemium scorewriter for Windows, macOS, and Linux, comparable to Finale and Sibelius, supporting a wide variety of file formats and input methods
 
 ## Design & Animation
 * [Blender](https://www.blender.org/) - A free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation. The program is optimized for productivity, and it doesn’t consider user experience, thus the learning curve is quite steep.
+* [FreeCAD](https://www.freecadweb.org/) - A free cross-platform open-source general-purpose parametric 3D CAD modeler and a building information modeling software.
+* [LibreCAD](https://librecad.org/) - A free cross-platform open source CAD application.
+* [Dynamobim](http://dynamobim.org/) - Open source graphical programming for design.
 
 ## DVD-CD
 * [ImgBurn](http://www.imgburn.com/) - Burning images to discs, it can write files to discs, as well as create images from discs or files
 * [CDBurnerXP](https://cdburnerxp.se) - Burn CDs and DVDs, including Blu-Ray. It also includes the feature to burn and create ISOs
 
-## Media Player
+## Media Player & Video
 * [VLC](https://www.videolan.org/vlc/index.html) - Media Player with built-in codecs.
 * [MPV](https://mpv.io/) - A free, open source, and cross-platform media player.
 * [SMPlayer](https://www.smplayer.info/) - Media Player with built-in codecs. It supports Chromecast.
+* [FFmpeg](https://www.ffmpeg.org/) - A free software project consisting of a vast software suite of libraries and programs for handling video, audio, and other multimedia files and streams.
+* [Handbrake](https://handbrake.fr/) - aA tool for converting video from nearly any format to a selection of modern, widely supported codecs.
 
 ## Programming and Web Design
-* Github for Education:
 * [Scratch](https://scratch.mit.edu/) - A free programming language and online community where you can create your own interactive stories, games, and animations. Its main focus is on children or people new to programming. 
 * [Notepad++](https://notepad-plus-plus.org/) - Source code editor which supports several programming languages running under the MS Windows environment.
 * [Atom](https://atom.io/) - Free and open-source text and source code editor for macOS, Linux, and Microsoft Windows with support for plug-ins written in Node.js, and embedded Git Control, developed by GitHub
 * [Visual Studio](https://visualstudio.microsoft.com/) - An integrated development environment (IDE) from Microsoft. It is used to develop computer programs, as well as websites, web apps, web services and mobile apps
-* [Sublime Text](https://www.sublimetext.com/3) - A proprietary cross-platform source code editor with a Python application programming interface. It supports many programming languages and functions can be added by users with plugins, typically community-built and maintained under free-software licenses
-
+* [Sublime Text](https://www.sublimetext.com/3) - A cross-platform source code editor it supports many programming languages and functions can be added by users with plugins, typically community-built and maintained under free-software licenses.
+* [KidCAD EDA](http://kicad-pcb.org/) - a free software suite for electronic design automation. It facilitates the design of schematics for electronic circuits and their conversion to PCB designs.
+* [Arduino](https://www.arduino.cc/) - Open-source electronic prototyping platform enabling users to create interactive electronic objects.
+* [CodeBlocks](http://www.codeblocks.org/) -  a free C, C++ and Fortran IDE. It is designed to be very extensible and fully configurable.
+* [NetBeans](https://netbeans.org/) - an integrated development environment for Java.
 
 ## Math
 * [Sagemath](https://www.sagemath.org/) - SageMath is a free open-source mathematics software system licensed under the GPL.
+* [Desmos](https://www.desmos.com/) - Calculator, graph functions, plot data, evaluate equations, explore transformations, and much more
 
 ## Data & Statistics
+* [Powerbi](https://powerbi.microsoft.com/en-us/) - A business analytics service provided by Microsoft. It provides interactive visualizations od data.
+
+## Social Media
+* [Buffer](https://buffer.com/) - A software application for the web and mobile, designed to manage accounts in social networks.
 
 ## Security
 * [Malwarebytes](https://www.malwarebytes.com/) - Find and remove malware from your computer. Although, you can pay for the PRO edition, the free version should be enough. 
 * [Windows Defender](https://www.microsoft.com/en-us/windows/comprehensive-security) - On Windows 10, you already hace this tool which is able to replace most of of previous popular antivirus softwares as far as you take care of yuour behavious online. 
 
-## Career Tools
-
+## Remote Control
+* [Teamviewer] - A proprietary cross-platform software for remote control, desktop sharing, online meetings, web conferencing and file transfer between computers. 
+* [Anydesk] - A proprietary cross-platform remote desktop.
+* [Chrome Remote Desktop](https://chrome.google.com/webstore/detail/chrome-remote-desktop/gbchcmhmhahfdphkhkmpfmihenigjmpp?hl=en) - Access other computers or allow another user to access your computer securely over the Internet.
 
 ## Cloud Storage
 * [Google Drive](https://drive.google.com/) - 15 GB shared between Google Photos, Gmail and Google Drive. [These elements](https://www.screencast.com/t/3LKLupSMT) count towards your quota, while [these others](https://www.screencast.com/t/vfzu591AA) don't. [Plans here](https://one.google.com/) (*).
@@ -163,8 +180,9 @@ _(*): If your school/college provides you with an educational account to have un
 * [GNU Cash](https://www.gnucash.org/) - Multiplatform personal and small-business financial-accounting software.
 
 ## Utilities
-* [Teamviewer] - A proprietary cross-platform software for remote control, desktop sharing, online meetings, web conferencing and file transfer between computers. 
-* [Anydesk] - A proprietary cross-platform remote desktop.
+* [Space Engine](http://spaceengine.org/) -  a realistic virtual Universe you can explore on your computer. You can travel from star to star, from galaxy to galaxy, landing on any planet, moon, or asteroid with the ability to explore its alien landscape.
+* [Focus](https://chrome.google.com/webstore/detail/focus/paipcheolflniajdfeglfpddafcklepg) - A Chrome extension with a few simple tactics to help prevent procrastination.
+* [LeechBlock](https://addons.mozilla.org/en-US/firefox/addon/leechblock/) - A Firefox extension designed to block those time-wasting sites.
 * [VirtualBox](https://www.virtualbox.org/) - Feature rich virtualization tools with support for many operating systems.
 * [Ninite](https://ninite.com/) - Install and update many programs at once. Many of the apps listed here are included in Ninite. It is quite useful after a clean installation of Windows. 
 * [Privacy Badger](https://www.eff.org/privacybadger) - Automatically learns to block invisible trackers to protect your privacy.
@@ -176,3 +194,4 @@ Contributions welcome! Read [the contribution guidelines first](https://github.c
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+
