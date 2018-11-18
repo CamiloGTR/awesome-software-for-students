@@ -24,6 +24,7 @@ Initially taken from the 100 free useful software for students. This is an updat
 * [Foxit Reader](https://www.foxitsoftware.com/pdf-reader/) - Freemium PDF tool that can create, view, edit, digitally sign, and print PDF files
 * [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader.html) - PDF, eBook (ePub, Mobi), XPS, DjVu, CHM, Comic Book (CBZ and CBR) reader for Windows.
 * [WinDjView](https://sourceforge.net/projects/windjview/) - Fast, compact and powerful DjVu viewer for Windows with tabbed interface, continuous scrolling and advanced printing options, based on free DjVuLibre library.
+* [Calibre](https://calibre-ebook.com/) - A cross-platform suite for organizing existing e-books into virtual libraries, displaying, editing, creating and converting e-books, as well as syncing e-books with a variety of e-readers.
 
 
 ## Citations
@@ -65,7 +66,6 @@ Initially taken from the 100 free useful software for students. This is an updat
 * [Peazip](http://www.peazip.org/) - A free file archiver utility, based on Open Source technologies of 7-Zip, p7zip, FreeArc, PAQ, and PEA projects.
 * [Space Sniffer](http://www.uderzo.it/main_products/space_sniffer/) - Free application that lets you understand how folders and files are structured on your disks. By using a Treemap visualization layout, you have immediate perception of where big folders and files are placed on your device.
 * [FileZilla](https://filezilla-project.org/) - Cross-platform FTP, SFTP, and FTPS client with a vast list of features, which supports Windows, Mac OS X, Linux, and more.
-* [Calibre](https://calibre-ebook.com/) - A cross-platform suite for organizing existing e-books into virtual libraries, displaying, editing, creating and converting e-books, as well as syncing e-books with a variety of e-readers
 
 ## Presentations
 * [Sway](https://sway.office.com/) - A presentation program and is part of the Microsoft Office family of products.
