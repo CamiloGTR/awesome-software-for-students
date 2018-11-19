@@ -196,7 +196,7 @@ _(*): If your school/college provides you with an educational account to have un
 * [Ninite](https://ninite.com/) - Install and update many programs at once. Many of the apps listed here are included in Ninite. It is quite useful after a clean installation of Windows. 
 * [Privacy Badger](https://www.eff.org/privacybadger) - Automatically learns to block invisible trackers to protect your privacy.
 * [HTTPS Everywhere](https://www.eff.org/https-everywhere) - A Firefox, Chrome, and Opera extension that encrypts your communications with many major websites, making your browsing more secure.
-* [Pihole](https://pi-hole.net/) - Network-wide ad blocking via your own Linux hardware. If you have a Raspberry laying around it might come handy for this project. 
+* [Pihole](https://pi-hole.net/) - Network-wide ad blocking via Linux. If you have a Raspberry laying around it might come handy for this project. 
 * [Recuva]() - Recover files from your Windows computer, recycle bin, digital camera card, or MP3 player
 * [Linux OS](https://www.linux.org/pages/download/) - A list of popular Linux Operating Systems. 
 
