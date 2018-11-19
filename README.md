@@ -219,9 +219,9 @@ _(*): If your school/college provides you with an educational account to have un
 * [Privacy Badger](https://www.eff.org/privacybadger) - Automatically learns to block invisible trackers to protect your privacy.
 * [HTTPS Everywhere](https://www.eff.org/https-everywhere) - A Firefox, Chrome, and Opera extension that encrypts your communications with many major websites, making your browsing more secure.
 * [Pihole](https://pi-hole.net/) - Network-wide ad blocking via Linux. If you have a Raspberry laying around it might come handy for this project. 
-* [Recuva]() - Recover files from your Windows computer, recycle bin, digital camera card, or MP3 player
+* [Recuva]() - Recover files from your Windows computer, recycle bin, digital camera card, or MP3 player.
 * [Linux OS](https://www.linux.org/pages/download/) - A list of popular Linux Operating Systems. 
-* [NewPipe](https://newpipe.schabi.org/) - A free and open-source media player app that is most well-known as a YouTube client
+* [NewPipe](https://newpipe.schabi.org/) - A free and open-source media player app that is most well-known as a YouTube client.
 * [GNU Cash](https://www.gnucash.org/) - Multiplatform personal and small-business financial-accounting software.
 
 ## Contribute
