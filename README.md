@@ -183,12 +183,8 @@ Initially taken from the 100 free useful software for students. This is an updat
 
 _(*): If your school/college provides you with an educational account to have unlimited storage in Google Drive or 1TB in Onedrive keep in mind that the account could be deleted if you drop out/graduate._
 
-## Android
-[NewPipe]() - 
-## Finances
-* [GNU Cash](https://www.gnucash.org/) - Multiplatform personal and small-business financial-accounting software.
 
-## Utilities
+## Misc & Utilities
 * [Space Engine](http://spaceengine.org/) -  a realistic virtual Universe you can explore on your computer. You can travel from star to star, from galaxy to galaxy, landing on any planet, moon, or asteroid with the ability to explore its alien landscape.
 * [Focus](https://chrome.google.com/webstore/detail/focus/paipcheolflniajdfeglfpddafcklepg) - A Chrome extension with a few simple tactics to help prevent procrastination.
 * [LeechBlock](https://addons.mozilla.org/en-US/firefox/addon/leechblock/) - A Firefox extension designed to block those time-wasting sites.
@@ -199,6 +195,8 @@ _(*): If your school/college provides you with an educational account to have un
 * [Pihole](https://pi-hole.net/) - Network-wide ad blocking via Linux. If you have a Raspberry laying around it might come handy for this project. 
 * [Recuva]() - Recover files from your Windows computer, recycle bin, digital camera card, or MP3 player
 * [Linux OS](https://www.linux.org/pages/download/) - A list of popular Linux Operating Systems. 
+* [NewPipe](https://newpipe.schabi.org/) - A free and open-source media player app that is most well-known as a YouTube client
+[GNU Cash](https://www.gnucash.org/) - Multiplatform personal and small-business financial-accounting software.
 
 ## Contribute
 Contributions welcome! Read [the contribution guidelines first](https://github.com/CamiloGTR/School-Software/blob/master/contributing.md).
