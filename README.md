@@ -42,7 +42,8 @@ Initially taken from the 100 free useful software for students. This is an updat
 ## Note Taking
 * [One Note](https://www.onenote.com/download) - Microsoft app to take notes. It's quite useful if you use a pen or you can use a touchpad.
 * [Google Keep](https://keep.google.com/) - Note-taking service developed by Google.
-* [Evernote](https://evernote.com/) - App that keeps your notes organized. Memos are synced so they're accessible anywhere, and searchable so you always find what you need
+* [Evernote](https://evernote.com/) - App that keeps your notes organized. Memos are synced so they're accessible anywhere, and searchable so you always find what you need.
+* [Jotterpad](https://2appstudio.com/jotterpad/) - A minimalistic writing app for Android.
 * [Dark Room](http://jjafuller.com/dark-room/) - A full-screen text editor that makes writing on your computer like using a typewriter: an empty screen with just your words on it. Windows only
 * [Markdownify](https://markdownify.js.org/) -  A minimal Markdown editor.
 * [Etherpad](http://etherpad.org/) - Customizable open source online editor providing collaborative editing in really real-time. 
@@ -94,6 +95,7 @@ Initially taken from the 100 free useful software for students. This is an updat
 * [Space Sniffer](http://www.uderzo.it/main_products/space_sniffer/) - Free application that lets you understand how folders and files are structured on your disks. By using a Treemap visualization layout, you have immediate perception of where big folders and files are placed on your device.
 * [FileZilla](https://filezilla-project.org/) - Cross-platform FTP, SFTP, and FTPS client with a vast list of features, which supports Windows, Mac OS X, Linux, and more.
 * [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) - a very popular an easy to use SSH and telnet client.
+* [WinSCP](https://winscp.net/eng/download.php) - A SFTP, FTP, WebDAV, Amazon S3 and SCP client for Microsoft Windows.
 
 ## Presentations
 * [Sway](https://sway.office.com/) - A presentation program, which is part of the Microsoft Office family of products.
@@ -197,6 +199,7 @@ Initially taken from the 100 free useful software for students. This is an updat
 
 ## Remote Control
 * [Teamviewer](https://www.teamviewer.com) - A proprietary cross-platform software for remote control, desktop sharing, online meetings, web conferencing and file transfer between computers. 
+* [RealVNC](https://www.realvnc.com) -  A remote access software similar to the Teamviewer. 
 * [Anydesk](https://anydesk.com/remote-desktop) - A proprietary cross-platform remote desktop.
 * [Chrome Remote Desktop](https://chrome.google.com/webstore/detail/chrome-remote-desktop/gbchcmhmhahfdphkhkmpfmihenigjmpp?hl=en) - Access other computers or allow another user to access your computer securely over the Internet. The options are very basic in contrast with other options. 
 
