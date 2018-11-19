@@ -21,6 +21,7 @@ Initially taken from the 100 free useful software for students. This is an updat
 
 ## Reading
 * [Adobe Acrobat](https://get.adobe.com/reader/) - The most popular pdf viewer. It allows you to create, manipulate, print and manage pdf files.
+* [Evince](https://wiki.gnome.org/Apps/Evince) - A document viewer for multiple document formats. Originally from gnome, it can also be used in Windows. 
 * [Foxit Reader](https://www.foxitsoftware.com/pdf-reader/) - Freemium PDF tool that can create, view, edit, digitally sign, and print PDF files
 * [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader.html) - PDF, eBook (ePub, Mobi), XPS, DjVu, CHM, Comic Book (CBZ and CBR) reader for Windows.
 * [WinDjView](https://sourceforge.net/projects/windjview/) - Fast, compact and powerful DjVu viewer for Windows with tabbed interface, continuous scrolling and advanced printing options, based on free DjVuLibre library.
@@ -66,6 +67,7 @@ Initially taken from the 100 free useful software for students. This is an updat
 * [Peazip](http://www.peazip.org/) - A free file archiver utility, based on Open Source technologies of 7-Zip, p7zip, FreeArc, PAQ, and PEA projects.
 * [Space Sniffer](http://www.uderzo.it/main_products/space_sniffer/) - Free application that lets you understand how folders and files are structured on your disks. By using a Treemap visualization layout, you have immediate perception of where big folders and files are placed on your device.
 * [FileZilla](https://filezilla-project.org/) - Cross-platform FTP, SFTP, and FTPS client with a vast list of features, which supports Windows, Mac OS X, Linux, and more.
+* [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) - a very popular an easy to use SSH and telnet client.
 
 ## Presentations
 * [Sway](https://sway.office.com/) - A presentation program and is part of the Microsoft Office family of products.
@@ -125,6 +127,7 @@ Initially taken from the 100 free useful software for students. This is an updat
 * [FreeCAD](https://www.freecadweb.org/) - A free cross-platform open-source general-purpose parametric 3D CAD modeler and a building information modeling software.
 * [LibreCAD](https://librecad.org/) - A free cross-platform open source CAD application.
 * [Dynamobim](http://dynamobim.org/) - Open source graphical programming for design.
+* [Unity](https://unity3d.com/)
 
 ## DVD-CD
 * [ImgBurn](http://www.imgburn.com/) - Burning images to discs, it can write files to discs, as well as create images from discs or files
@@ -147,13 +150,15 @@ Initially taken from the 100 free useful software for students. This is an updat
 * [Arduino](https://www.arduino.cc/) - Open-source electronic prototyping platform enabling users to create interactive electronic objects.
 * [CodeBlocks](http://www.codeblocks.org/) -  a free C, C++ and Fortran IDE. It is designed to be very extensible and fully configurable.
 * [NetBeans](https://netbeans.org/) - an integrated development environment for Java.
+* [PostMan](https://www.getpostman.com/) - An API development environment. 
+* [FreeXML Editor](http://www.firstobject.com/dn_editor.htm) -  A free XML editor for Windows that can load big files fast and lets you format XML and edit HTML and any loosely formed XML.
 
 ## Math
 * [Sagemath](https://www.sagemath.org/) - An open-source mathematics software system licensed under the GPL.
 * [Desmos](https://www.desmos.com/) - A free calculator, graph functions, plot data, evaluate equations, explore transformations, among other functions.
 
 ## Data & Statistics
-* [}]
+* [R Project](https://cran.r-project.org/mirrors.html) - A programming language and free software environment for statistical computing and graphics supported by the R Foundation.
 * [Powerbi](https://powerbi.microsoft.com/en-us/) - A business analytics service provided by Microsoft. It provides interactive visualizations od data.
 * [QGIS](www.qgis.org) - A free and open source Geographic Information System.
 
@@ -178,6 +183,8 @@ Initially taken from the 100 free useful software for students. This is an updat
 
 _(*): If your school/college provides you with an educational account to have unlimited storage in Google Drive or 1TB in Onedrive keep in mind that the account could be deleted if you drop out/graduate._
 
+## Android
+[NewPipe]() - 
 ## Finances
 * [GNU Cash](https://www.gnucash.org/) - Multiplatform personal and small-business financial-accounting software.
 
@@ -190,6 +197,7 @@ _(*): If your school/college provides you with an educational account to have un
 * [Privacy Badger](https://www.eff.org/privacybadger) - Automatically learns to block invisible trackers to protect your privacy.
 * [HTTPS Everywhere](https://www.eff.org/https-everywhere) - A Firefox, Chrome, and Opera extension that encrypts your communications with many major websites, making your browsing more secure.
 * [Pihole](https://pi-hole.net/) - Network-wide ad blocking via your own Linux hardware. If you have a Raspberry laying around it might come handy for this project. 
+* [Recuva]() - Recover files from your Windows computer, recycle bin, digital camera card, or MP3 player
 * [Linux OS](https://www.linux.org/pages/download/) - A list of popular Linux Operating Systems. 
 
 ## Contribute
@@ -197,4 +205,3 @@ Contributions welcome! Read [the contribution guidelines first](https://github.c
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
-
