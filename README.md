@@ -2,7 +2,37 @@
 Initially taken from the 100 free useful software for students. This is an update and curated version of [this infography](https://i.imgur.com/0e07EWn.jpg) inspired by [this list](https://github.com/Igglybuff/awesome-piracy). 
 
 ## Contents
-
+- [Office Suite](#office-suite)
+- [Note Taking](#note-taking)
+- [Reading](#reading)
+- [Citations](#citations)
+- [Writing Papers](#writing-papers)
+- [Mind Maps](#mind-maps)
+- [Diagrams](#diagrams)
+- [Screen Recorder](#screen-recorder)
+- [Chat & Study Groups](#chat--study-groups)
+- [Flashcards](#flashcards)
+- [File Management](#file-management)
+- [Presentations](#presentations)
+- [Email & Web](#email--web)
+- [Passwords](#passwords)
+- [Time Management](#time-management)
+- [Music](#music)
+- [Video Editing](#video-editing)
+- [Photos & Images](#photos--images)
+- [Audio & Composition](#audio--composition)
+- [Design & Animation](#design--animation)
+- [DVD-CD](#dvd-cd)
+- [Media Player & Video](#media-player--video)
+- [Programming and Web Design](#programming-and-web-design)
+- [Math](#math)
+- [Social Media](#social-media)
+- [Security](#security)
+- [Remote Control](#remote-control)
+- [Cloud Storage](#security)
+- [Misc & Utilities](#security)
+- [Contribute](#security)
+- [License](#security)
 
 ## Office Suite
 * [Google Docs](https://www.google.com/docs/about/) - Collaborative  editing and styling tools to help you easily format text and paragraphs.
