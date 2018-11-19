@@ -196,7 +196,7 @@ _(*): If your school/college provides you with an educational account to have un
 * [Recuva]() - Recover files from your Windows computer, recycle bin, digital camera card, or MP3 player
 * [Linux OS](https://www.linux.org/pages/download/) - A list of popular Linux Operating Systems. 
 * [NewPipe](https://newpipe.schabi.org/) - A free and open-source media player app that is most well-known as a YouTube client
-[GNU Cash](https://www.gnucash.org/) - Multiplatform personal and small-business financial-accounting software.
+* [GNU Cash](https://www.gnucash.org/) - Multiplatform personal and small-business financial-accounting software.
 
 ## Contribute
 Contributions welcome! Read [the contribution guidelines first](https://github.com/CamiloGTR/School-Software/blob/master/contributing.md).
