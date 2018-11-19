@@ -7,7 +7,6 @@ Initially taken from the 100 free useful software for students. This is an updat
 - [Reading](#reading)
 - [Citations](#citations)
 - [Writing Papers](#writing-papers)
-- [Mind Maps](#mind-maps)
 - [Diagrams](#diagrams)
 - [Screen Recorder](#screen-recorder)
 - [Chat & Study Groups](#chat--study-groups)
@@ -66,9 +65,6 @@ Initially taken from the 100 free useful software for students. This is an updat
 * [LaTeX](https://www.latex-project.org/) - High-quality typesetting system; it includes features designed for the production of technical and scientific documentation
 * [Jabref](http://www.jabref.org/) - Open source bibliography reference manager. The native file format used by JabRef is BibTeX, the standard LaTeX bibliography format. JabRef is a desktop application and runs on the Java VM (version 8).
 * [Lyx](https://www.lyx.org/) - Document processor that encourages an approach to writing based on the structure of your documents and not simply their appearance
-
-
-## Mind Maps
 
 ## Diagrams
 * [Draw.io](https://www.draw.io/) - Free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams
