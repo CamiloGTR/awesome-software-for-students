@@ -70,7 +70,7 @@ Initially taken from the 100 free useful software for students. This is an updat
 * [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) - a very popular an easy to use SSH and telnet client.
 
 ## Presentations
-* [Sway](https://sway.office.com/) - A presentation program and is part of the Microsoft Office family of products.
+* [Sway](https://sway.office.com/) - A presentation program, which is part of the Microsoft Office family of products.
 * [Prezi](https://prezi.com/) - Web-based app to make presentations.
 
 
