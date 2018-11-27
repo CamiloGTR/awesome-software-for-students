@@ -107,7 +107,7 @@ Initially taken from the 100 free useful software for students. This is an updat
 * [Firefox](https://www.mozilla.org) - Web browser with a large collection of add-ons available. It is backed by Mozilla, a non-profit organization that supports innovation, freedom, and an open Web.
 
 ## Passwords
-* [Keepass](https://keepass.info/) - KeePass is a free open source password manager, which helps you to manage your passwords in a secure way. You can put all your passwords in one database, which is locked with one master key or a key file.
+* [Keepass](https://keepass.info/) - A free open source password manager, which helps you to manage your passwords in a secure way. You can put all your passwords in one database, which is locked with one master key or a key file.
 * [Bitwarden](https://bitwarden.com/) - A free and open source password management solution for individuals, teams, and business organizations. It allows you to host your own server with your passwords.
 * [Buttercup](https://buttercup.pw/) -  A beautifully-simple password manager designed to help manage your credentials.
 
@@ -145,7 +145,7 @@ Initially taken from the 100 free useful software for students. This is an updat
 
 
 ## Audio & Composition
-* [Audacity](https://www.audacityteam.org/) - Audacity is an easy-to-use, multi-track audio editor and recorder for Windows, Mac OS X, GNU/Linux and other operating systems
+* [Audacity](https://www.audacityteam.org/) - An easy-to-use, multi-track audio editor and recorder for Windows, Mac OS X, GNU/Linux and other operating systems
 * [LMMS](https://lmms.io/) - A free, cross-platform tool to create music.
 * [Exact Audio Copy](http://www.exactaudiocopy.de/en/index.php/resources/download/): CD-Ripper popular among audiophiles for its accuracy and ability to rip slightly damaged audio compact discs.[Tutorial](https://github.com/flacfan/EAC-Guides/blob/master/part-2-ripping.md#ripping).
 * [Musescore](https://musescore.org/en) - A free and freemium scorewriter for Windows, macOS, and Linux, comparable to Finale and Sibelius, supporting a wide variety of file formats and input methods
@@ -210,7 +210,7 @@ Initially taken from the 100 free useful software for students. This is an updat
 * [Mega](https://mega.nz/) - 15GB Storage. [Plans here](https://mega.nz/pro).
 * [Resilio](https://www.resilio.com/) - Fast p2p file sync software for enterprises and individuals that performs on any machine, data, scale, or network.
 
-_(*): If your school/college provides you with an educational account to have unlimited storage in Google Drive or 1TB in Onedrive keep in mind that the account could be deleted if you drop out/graduate._
+(*): If your school/college provides you with an educational account to have unlimited storage in Google Drive or 1TB in Onedrive keep in mind that the account could be deleted if you drop out/graduate.
 
 
 ## Misc & Utilities
