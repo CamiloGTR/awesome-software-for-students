@@ -216,6 +216,7 @@ Initially taken from the 100 free useful software for students. This is an updat
 * [Dropbox](https://www.dropbox.com/) - 2GB storage. [Plans here].(https://www.dropbox.com/individual/plans-comparison)
 * [Mega](https://mega.nz/) - 15GB Storage. [Plans here](https://mega.nz/pro).
 * [Resilio](https://www.resilio.com/) - Fast p2p file sync software for enterprises and individuals that performs on any machine, data, scale, or network.
+* [Syncthing](https://syncthing.net/) - An open-source peer-to-peer file synchronization.
 
 (*): If your school/college provides you with an educational account to have unlimited storage in Google Drive or 1TB in Onedrive keep in mind that the account could be deleted if you drop out/graduate.
 
