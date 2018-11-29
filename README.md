@@ -59,16 +59,19 @@ Initially taken from the 100 free useful software for students. This is an updat
 
 
 ## Citations
-* [Zotero](https://www.zotero.org/) - An easy-to-use tool to help you collect, organize, cite, and share research
+* [Zotero](https://www.zotero.org/) - An easy-to-use tool to help you collect, organize, cite, and share research.
+* [Mendeley](https://www.mendeley.com) - A desktop and web program for managing and sharing research papers, discovering research data and collaborating online
 
 ## Writing Papers
 * [Overleaf](https://www.overleaf.com/) - An online LaTeX editor that's easy to use. No installation, real-time collaboration, version control, hundreds of LaTeX templates, and more.
-* [LaTeX](https://www.latex-project.org/) - High-quality typesetting system; it includes features designed for the production of technical and scientific documentation
+* [LaTeX](https://www.latex-project.org/) - High-quality typesetting system; it includes features designed for the production of technical and scientific documentation.
+* [TexMaker](http://www.xm1math.net/texmaker/) - Free cross-platform LaTeX editor.
 * [Jabref](http://www.jabref.org/) - Open source bibliography reference manager. The native file format used by JabRef is BibTeX, the standard LaTeX bibliography format. JabRef is a desktop application and runs on the Java VM (version 8).
 * [Lyx](https://www.lyx.org/) - Document processor that encourages an approach to writing based on the structure of your documents and not simply their appearance
 
 ## Diagrams
-* [Draw.io](https://www.draw.io/) - Free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams
+* [Draw.io](https://www.draw.io/) - Free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams.
+* [Xmind](https://www.xmind.net/) - A mind mapping and brainstorming tool.
 
 ## Screen Recorder
 * [OBS](https://obsproject.com/) - Free and open source software for video recording and live streaming.
@@ -180,15 +183,19 @@ Initially taken from the 100 free useful software for students. This is an updat
 * [NetBeans](https://netbeans.org/) - an integrated development environment for Java.
 * [PostMan](https://www.getpostman.com/) - An API development environment. 
 * [FreeXML Editor](http://www.firstobject.com/dn_editor.htm) -  A free XML editor for Windows that can load big files fast and lets you format XML and edit HTML and any loosely formed XML.
+* [Vim](https://www.vim.org/download.php) - An editor to program. 
+* [Geany](https://www.geany.org/) - A lightweight GUI text editor using Scintilla and GTK+, including basic IDE feature
 
 ## Math
 * [Sagemath](https://www.sagemath.org/) - An open-source mathematics software system licensed under the GPL.
 * [Desmos](https://www.desmos.com/) - A free calculator, graph functions, plot data, evaluate equations, explore transformations, among other functions.
+* [Microsoft Mathematics 4.0](https://www.microsoft.com/en-us/download/details.aspx?id=15702) - A graphing calculator that plots in 2D and 3D, step-by-step equation solving, and useful tools to help students with math and science studies.
 
 ## Data & Statistics
 * [R Project](https://cran.r-project.org/mirrors.html) - A programming language and free software environment for statistical computing and graphics supported by the R Foundation.
-* [Powerbi](https://powerbi.microsoft.com/en-us/) - A business analytics service provided by Microsoft. It provides interactive visualizations od data.
+* [Powerbi](https://powerbi.microsoft.com/en-us/) - A business analytics service by Microsoft. It provides interactive visualizations od data.
 * [QGIS](www.qgis.org) - A free and open source Geographic Information System.
+* [Stata](https://www.stata.com/) - 
 
 ## Social Media
 * [Buffer](https://buffer.com/) - A software application for the web and mobile, designed to manage accounts in social networks.
@@ -226,6 +233,19 @@ Initially taken from the 100 free useful software for students. This is an updat
 * [Linux OS](https://www.linux.org/pages/download/) - A list of popular Linux Operating Systems. 
 * [NewPipe](https://newpipe.schabi.org/) - A free and open-source media player app that is most well-known as a YouTube client.
 * [GNU Cash](https://www.gnucash.org/) - Multiplatform personal and small-business financial-accounting software.
+* [Vlex](https://vlex.com/) - A comprehensive legal data spanning 100+ countries on an intelligent & intuitive platform that delivers the most relevant results fast.
+
+* [HEC-RAS](http://www.hec.usace.army.mil/software/hec-ras/) - A program to perform one-dimensional steady flow, one and two-dimensional unsteady flow calculations, sediment transport/mobile bed computations, and water temperature/water quality modeling
+* [SWMM](https://www.epa.gov/water-research/storm-water-management-model-swmm) - A program for planning, analysis, and design related to stormwater runoff, combined and sanitary sewers, and other drainage systems.
+* [HeidiSQL](https://www.heidisql.com/) - A tool to see and edit data and structures from computers running one of the database systems MySQL, MariaDB, Microsoft SQL or PostgreSQL.
+* [Etcher](https://www.balena.io/etcher/) - Flash OS images to SD cards & USB drives, safely and easily.
+* [Schoology](https://www.schoology.com/) - A management system with assessment management to improve student performance, foster collaboration, and personalize learning.
+* [MoodleCloud](https://moodlecloud.com/) - Free version of moodle in the cloud. 
+* [RawTherapee](https://rawtherapee.com/) - A cross-platform raw image processing program.
+* [Tropy](https://tropy.org/) - An open-source software that allows you to organize and describe photographs of research material.
+* [DarkTable](https://darktable.org/) - A program that manages your digital negatives and enables you to develop raw images and enhance them.
+* [ImageJ](https://imagej.net/Welcome) - An image processing program designed for scientific multidimensional images.
+* [Aegisub ](http://www.aegisub.org/) - A  tool for creating and modifying subtitles.
 
 ## Contribute
 Contributions welcome! Read [the contribution guidelines first](https://github.com/CamiloGTR/School-Software/blob/master/contributing.md).
