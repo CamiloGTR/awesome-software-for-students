@@ -40,7 +40,7 @@ Initially taken from the 100 free useful software for students. This is an updat
 * [Zoho](https://www.zoho.com/) - Web-based office suite containing many tools such as wikis, web conferencing, customer relationship management, project management, invoicing, and other applications.
 
 ## Note Taking
-* [One Note](https://www.onenote.com/download) - Microsoft app to take notes. It's quite useful if you use a pen or you can use a touchpad.
+* [One Note](https://www.onenote.com/download) - Microsoft app to take notes. It's quite useful if you use a pen or a touchpad.
 * [Google Keep](https://keep.google.com/) - Note-taking service developed by Google.
 * [Evernote](https://evernote.com/) - App that keeps your notes organized. Memos are synced so they're accessible anywhere, and searchable so you always find what you need.
 * [Jotterpad](https://2appstudio.com/jotterpad/) - A minimalistic writing app for Android.
@@ -75,6 +75,7 @@ Initially taken from the 100 free useful software for students. This is an updat
 
 ## Screen Recorder
 * [OBS](https://obsproject.com/) - Free and open source software for video recording and live streaming.
+* [Streamlabs OBS](https://streamlabs.com/) - A popular fork of OBS. 
 * [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/) - Highly customisable screencasting program for linux.
 
 ## Chat & Study Groups
@@ -84,7 +85,7 @@ Initially taken from the 100 free useful software for students. This is an updat
 * [Slack](https://slack.com/) - It's a cloud-based set of proprietary team collaboration tools and services. Very popular among different workspaces. Video conference is paid though. 
 * [Hangout](https://hangouts.google.com/) - Communication platform which includes messaging, video chat, SMS and VOIP features. Very easy and useful among Google users to setup a video conference. 
 * [Discord](https://discordapp.com/) - Freeware VoIP application and digital distribution platform. Formally, it was intended to the videogaming community however there are many groups in different servers to learn or practice many subjects.
-* [Telegram](https://telegram.org/) - Cloud-based instant messaging and voice over IP service. It has many characteristics that other clients lack of of. However, if you're looking for private options, this is not the one you're looking for. 
+* [Telegram](https://telegram.org/) - Cloud-based instant messaging and voice over IP service. It has many characteristics that other clients lack of of.
 * [Signal](https://www.whispersystems.org/) - Private messaging and calling for desktop, Android, and iOS.
 * [Whatsapp](https://www.whatsapp.com/) - Freeware and cross-platform messaging and Voice over IP service owned by Facebook.
 
