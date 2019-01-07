@@ -85,7 +85,7 @@ Initially taken from the 100 free useful software for students. This is an updat
 * [Slack](https://slack.com/) - It's a cloud-based set of proprietary team collaboration tools and services. Very popular among different workspaces. Video conference is paid though. 
 * [Hangout](https://hangouts.google.com/) - Communication platform which includes messaging, video chat, SMS and VOIP features. Very easy and useful among Google users to setup a video conference. 
 * [Discord](https://discordapp.com/) - Freeware VoIP application and digital distribution platform. Formally, it was intended to the videogaming community however there are many groups in different servers to learn or practice many subjects.
-* [Telegram](https://telegram.org/) - Cloud-based instant messaging and voice over IP service. It has many characteristics that other clients lack of of.
+* [Telegram](https://telegram.org/) - Cloud-based instant messaging and voice over IP service. It has many characteristics that other clients lacks.
 * [Signal](https://www.whispersystems.org/) - Private messaging and calling for desktop, Android, and iOS.
 * [Whatsapp](https://www.whatsapp.com/) - Freeware and cross-platform messaging and Voice over IP service owned by Facebook.
 
@@ -170,7 +170,7 @@ Initially taken from the 100 free useful software for students. This is an updat
 * [MPV](https://mpv.io/) - A free, open source, and cross-platform media player.
 * [SMPlayer](https://www.smplayer.info/) - Media Player with built-in codecs. It supports Chromecast.
 * [FFmpeg](https://www.ffmpeg.org/) - A free software project consisting of a vast software suite of libraries and programs for handling video, audio, and other multimedia files and streams.
-* [Handbrake](https://handbrake.fr/) - aA tool for converting video from nearly any format to a selection of modern, widely supported codecs.
+* [Handbrake](https://handbrake.fr/) - A tool for converting video from nearly any format to a selection of modern, widely supported codecs.
 
 ## Programming and Web Design
 * [Scratch](https://scratch.mit.edu/) - A free programming language and online community where you can create your own interactive stories, games, and animations. Its main focus is on children or people new to programming. 
@@ -230,8 +230,8 @@ Initially taken from the 100 free useful software for students. This is an updat
 * [Ninite](https://ninite.com/) - Install and update many programs at once. Many of the apps listed here are included in Ninite. It is quite useful after a clean installation of Windows. 
 * [Privacy Badger](https://www.eff.org/privacybadger) - Automatically learns to block invisible trackers to protect your privacy.
 * [HTTPS Everywhere](https://www.eff.org/https-everywhere) - A Firefox, Chrome, and Opera extension that encrypts your communications with many major websites, making your browsing more secure.
-* [Pihole](https://pi-hole.net/) - Network-wide ad blocking via Linux. If you have a Raspberry laying around it might come handy for this project. 
-* [Recuva]() - Recover files from your Windows computer, recycle bin, digital camera card, or MP3 player.
+* [Pihole](https://pi-hole.net/) - Network-wide ad blocking via Linux. If you have a Raspberry Pi laying around it might come handy for this project. 
+* [Recuva](https://www.ccleaner.com/recuva) - Recover files from your Windows computer, recycle bin, digital camera card, or MP3 player.
 * [Linux OS](https://www.linux.org/pages/download/) - A list of popular Linux Operating Systems. 
 * [NewPipe](https://newpipe.schabi.org/) - A free and open-source media player app that is most well-known as a YouTube client.
 * [GNU Cash](https://www.gnucash.org/) - Multiplatform personal and small-business financial-accounting software.
