@@ -1,5 +1,5 @@
 # School-Software [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-Initially taken from the 100 free useful software for students. This is an update and curated version of [this infography](https://i.imgur.com/0e07EWn.jpg) inspired by [this list](https://github.com/Igglybuff/awesome-piracy). 
+Initially taken from the 100 free useful software for students. This is an updated and curated version of [this infography](https://i.imgur.com/0e07EWn.jpg) inspired by [this list](https://github.com/Igglybuff/awesome-piracy). 
 
 ## Contents
 - [Office Suite](#office-suite)
@@ -40,7 +40,7 @@ Initially taken from the 100 free useful software for students. This is an updat
 * [Zoho](https://www.zoho.com/) - Web-based office suite containing many tools such as wikis, web conferencing, customer relationship management, project management, invoicing, and other applications.
 
 ## Note Taking
-* [One Note](https://www.onenote.com/download) - Microsoft app to take notes. It's quite useful if you use a pen or a touchpad.
+* [OneNote](https://www.onenote.com/download) - Microsoft app to take notes. It's quite useful if you use a pen or a touchpad.
 * [Google Keep](https://keep.google.com/) - Note-taking service developed by Google.
 * [Evernote](https://evernote.com/) - App that keeps your notes organized. Memos are synced so they're accessible anywhere, and searchable so you always find what you need.
 * [Jotterpad](https://2appstudio.com/jotterpad/) - A minimalistic writing app for Android.
@@ -83,7 +83,7 @@ Initially taken from the 100 free useful software for students. This is an updat
 * [Ring](https://ring.cx/) - Telephone, teleconferencing, and media sharing through a distributed service.
 * [Appearin](https://appear.in/) - A video collaboration tool that lets you have video conversations effortlessly without requiring any downloads. PRO supports up to 12 people simultaneously.
 * [Slack](https://slack.com/) - It's a cloud-based set of proprietary team collaboration tools and services. Very popular among different workspaces. Video conference is paid though. 
-* [Hangout](https://hangouts.google.com/) - Communication platform which includes messaging, video chat, SMS and VOIP features. Very easy and useful among Google users to setup a video conference. 
+* [Hangouts](https://hangouts.google.com/) - Communication platform which includes messaging, video chat, SMS and VOIP features. Very easy and useful among Google users to setup a video conference. 
 * [Discord](https://discordapp.com/) - Freeware VoIP application and digital distribution platform. Formally, it was intended to the videogaming community however there are many groups in different servers to learn or practice many subjects.
 * [Telegram](https://telegram.org/) - Cloud-based instant messaging and voice over IP service. It has many characteristics that other clients lacks.
 * [Signal](https://www.whispersystems.org/) - Private messaging and calling for desktop, Android, and iOS.
@@ -213,7 +213,7 @@ Initially taken from the 100 free useful software for students. This is an updat
 
 ## Cloud Storage
 * [Google Drive](https://drive.google.com/) - 15 GB shared between Google Photos, Gmail and Google Drive. [These elements](https://www.screencast.com/t/3LKLupSMT) count towards your quota, while [these others](https://www.screencast.com/t/vfzu591AA) don't. [Plans here](https://one.google.com/) (*).
-* [One Drive](https://onedrive.live.com/) - 5GB storage. [Plans here](https://onedrive.live.com/about/en-US/plans/) (*).
+* [OneDrive](https://onedrive.live.com/) - 5GB storage. [Plans here](https://onedrive.live.com/about/en-US/plans/) (*).
 * [Dropbox](https://www.dropbox.com/) - 2GB storage. [Plans here].(https://www.dropbox.com/individual/plans-comparison)
 * [Mega](https://mega.nz/) - 15GB Storage. [Plans here](https://mega.nz/pro).
 * [Resilio](https://www.resilio.com/) - Fast p2p file sync software for enterprises and individuals that performs on any machine, data, scale, or network.
