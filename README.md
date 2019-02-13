@@ -2,7 +2,7 @@
 
 ## Contents
 - [Introduction] (#introduction)
- -[Emoji](#emoji)
+ - [Emoji](#emoji)
 - [Office Suite](#office-suite)
 - [Note Taking](#note-taking)
 - [Reading](#reading)
