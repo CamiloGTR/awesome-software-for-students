@@ -18,7 +18,8 @@ I took the idea from here and it is basically the same principle. I added a 🌟
 * [Flashcards](#flashcards)
 * [File Management](#file-management)
 * [Presentations](#presentations)
-* [Email & Web](#email--web)
+* [Web](#web)
+* [Email](#email)
 * [Passwords](#passwords)
 * [Time Management](#time-management)
 * [Music](#music)
@@ -112,12 +113,15 @@ I took the idea from here and it is basically the same principle. I added a 🌟
 * [Prezi](https://prezi.com/) - Web-based app to make presentations.
 * [Google Slides](https://www.google.com/slides/about/) - Similar to Power Point but with the added element of collaboration.
 
-
-## Email & Web
-* [Thunderbird](https://www.thunderbird.net) ⭐ - a free email application that's easy to set up and customize.
+## Web
 * [Firefox](https://www.mozilla.org) - Web browser with a large collection of add-ons available. It is backed by Mozilla, a non-profit organization that supports innovation, freedom, and an open Web.
 * [Vivaldi](https://vivaldi.com/) - From the same team that developed Opera (so many features remain the same), this browser started as some users disgruntled the transition of Opera from the Presto layout engine to a Chromium-based browser.
 * [Brave](https://brave.com/) - An open-source web browser developed by Brave Software Inc. based on the Chromium web browser. The browser blocks ads and website trackers.
+
+## Email
+* [Thunderbird](https://www.thunderbird.net) ⭐ - A free email application that's easy to set up and fully customizable.
+* [eMClient](https://www.emclient.com/) - A fully-featured email client with a modern and easy-to-use interface. eM Client also offers calendar, tasks, contacts and chat.
+* [Mailbird](https://www.getmailbird.com/) - Mailbird is a desktop email client for Windows 7, 8 and 10, inspired by the Sparrow email client for OS X.
 
 ## Passwords
 * [Keepass](https://keepass.info/) - A free open source password manager, which helps you to manage your passwords in a secure way. You can put all your passwords in one database, which is locked with one master key or a key file.
@@ -229,10 +233,10 @@ I took the idea from here and it is basically the same principle. I added a 🌟
 * [Sync](https://www.sync.com/) ⭐ - For users concerned about privacy, Sync offers 5GB of free end-to-end encrypted storage (only you can access your data in the cloud). They have paid plans as well. 
 * [Resilio](https://www.resilio.com/) ⭐ - Fast p2p file sync software for enterprises and individuals that performs on any machine, data, scale, or network.
 * [Syncthing](https://syncthing.net/) - An open-source peer-to-peer file synchronization.
-* [Openload](https://openload.co/) -
-* [DBREE](https://dbr.ee/) ⭐ -
-* [Wetransfer](https://wetransfer.com/) ⭐
-* [FilePizza](https://file.pizza/) ⭐
+* [Wetransfer](https://wetransfer.com/) ⭐- Webpage to share files up to 2GB. 
+* [Openload](https://openload.co/) - Similar to Wetransfer the maximum file size is limited to 1 GB. The streamable files are deleted after 60 days inactivity (non streamable files after 30 days of inactivity)
+* [DBREE](https://dbr.ee/) ⭐ - Another option to share any type of files up to 500MB.
+* [FilePizza](https://file.pizza/) ⭐- Peer-to-peer file transfers but in your browser. No limitations of file sizes as it is peer-to-peer.
 
 (*): If your school/college provides you with an educational account (@nameofmyschool.com) to have unlimited storage in Google Drive or 1TB in Onedrive keep in mind that the account could be deleted if you drop out/graduate.
 
