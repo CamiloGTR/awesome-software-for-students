@@ -1,8 +1,8 @@
 # School-Software [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Contents
-- [Introduction] (#introduction)
- - [Emoji](#emoji)
+* [Introduction] (#introduction)
+    * [Emoji](#emoji)
 - [Office Suite](#office-suite)
 - [Note Taking](#note-taking)
 - [Reading](#reading)
