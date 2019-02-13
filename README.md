@@ -1,7 +1,8 @@
 # School-Software [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-Hi! I'm an English as a Foreign Language Teacher and during my classes I see my students having problems to deliver different kind of tasks from the other subjects. In most cases, most of the work can be easily done by working together with their peers (collaboration) or can be fully automatized with an app. In other words, you are not required to be a expert in Adobe Illustrator to create an infography. However, many students are unaware of the software available nowadays that can be quite helpful. Besides, I had a look at this resource entitled "100 free useful software for students". The following list is an update and curated version of [this infography](https://i.imgur.com/0e07EWn.jpg) inspired by [this list](https://github.com/Igglybuff/awesome-piracy) and considering students needs.  
 
 ## Contents
+- [Introduction] (#introduction)
+ -[Emoji](#emoji)
 - [Office Suite](#office-suite)
 - [Note Taking](#note-taking)
 - [Reading](#reading)
@@ -32,6 +33,14 @@ Hi! I'm an English as a Foreign Language Teacher and during my classes I see my 
 - [Misc & Utilities](#security)
 - [Contribute](#security)
 - [License](#security)
+
+# Introduction
+Hi! I'm an English as a Foreign Language Teacher and during my classes I see my students having problems to deliver different kind of tasks from the other subjects. In most cases, most of the work can be easily done by working together with their peers (collaboration) or can be fully automatized with an app. In other words, you are not required to be a expert in Adobe Illustrator to create an infography. However, many students are unaware of the software available nowadays that can be quite helpful. Besides, I had a look at this resource entitled "100 free useful software for students". The following list is an update and curated version of [this infography](https://i.imgur.com/0e07EWn.jpg) inspired by [this list](https://github.com/Igglybuff/awesome-piracy) and considering students needs.  
+
+# Emoji
+I took the idea from here and it is basically the same principle. I added a 🌟 to some of the apps, which represent my pick for that category. This is based on an opinion so keep that mind. I try to use software that is easy to use and setup. By no means, an app with a "🌟" is going to be the best one there.
+
+
 
 ## Office Suite
 * [Google Docs](https://www.google.com/docs/about/) ⭐ - Collaborative  editing and styling tools to help you easily format text and paragraphs. 
@@ -256,6 +265,7 @@ Hi! I'm an English as a Foreign Language Teacher and during my classes I see my 
 * [DarkTable](https://darktable.org/) - A program that manages your digital negatives and enables you to develop raw images and enhance them.
 * [ImageJ](https://imagej.net/Welcome) - An image processing program designed for scientific multidimensional images.
 * [Aegisub ](http://www.aegisub.org/) - A  tool for creating and modifying subtitles.
+* [AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) ⭐ - An Android keyboard, similar to Gboard, but without the part that collects your typing to "improve
 
 ## Contribute
 Contributions welcome! Read [the contribution guidelines first](https://github.com/CamiloGTR/School-Software/blob/master/contributing.md).
