@@ -210,14 +210,14 @@ I took the idea from here and it is basically the same principle. I added a 🌟
 * [R Project](https://cran.r-project.org/mirrors.html) - A programming language and free software environment for statistical computing and graphics supported by the R Foundation.
 * [Powerbi](https://powerbi.microsoft.com/en-us/) - A business analytics service by Microsoft. It provides interactive visualizations od data.
 * [QGIS](www.qgis.org) - A free and open source Geographic Information System.
-* [Stata](https://www.stata.com/) - 
+* [Stata](https://www.stata.com/) - A general-purpose statistical software package. Stata's capabilities include data management, statistical analysis, graphics, simulations, regression, and custom programming. It also has a system to disseminate user-written programs that lets it grow continuously. 
 
 ## Social Media
 * [Buffer](https://buffer.com/) - A software application for the web and mobile, designed to manage accounts in social networks.
 
 ## Security
 * [Malwarebytes](https://www.malwarebytes.com/) ⭐ - Find and remove malware from your computer. Although, you can pay for the PRO edition, the free version should be enough. 
-* [Windows Defender](https://www.microsoft.com/en-us/windows/comprehensive-security) - On Windows 10, you already hace this tool which is able to replace most of of previous popular antivirus softwares as far as you take care of your behavious online. 
+* [Windows Defender](https://www.microsoft.com/en-us/windows/comprehensive-security) - On Windows 10, you already have this tool which is able to replace most of of previous popular antivirus softwares as far as you take care of your behavious online. 
 
 ## Remote Control
 * [Teamviewer](https://www.teamviewer.com) - A proprietary cross-platform software for remote control, desktop sharing, online meetings, web conferencing and file transfer between computers. 
