@@ -1,4 +1,4 @@
-# Software for Students [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Software for Students [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 # Introduction
 Hi! I'm an English as a Foreign Language Teacher and during my classes I see my students having problems to deliver different kind of tasks from the other subjects. In most cases, most of the work can be easily done by working together with their peers (collaboration) or can be fully automatized with an app. In other words, you are not required to be a expert in Adobe Illustrator to create an infography. However, many students are unaware of the software available nowadays that can be quite helpful. Besides, I had a look at this resource entitled "100 free useful software for students". The following list is an update and curated version of [this infography](https://i.imgur.com/0e07EWn.jpg) inspired by [this list](https://github.com/Igglybuff/awesome-piracy) and considering students needs.  
