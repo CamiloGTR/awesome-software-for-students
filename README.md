@@ -81,6 +81,7 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 ## Diagrams
 * [Draw.io](https://www.draw.io/) - Free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams.
 * [Xmind](https://www.xmind.net/) - A mind mapping and brainstorming tool.
+* [Canva](https://www.canva.com/) - A website to create different kind of resources such as infographies, facebook covers, instagram posts, among others. It uses a drag-and-drop format, so it's quite easy to use. 
 
 ## Screen Recorder
 * [OBS](https://obsproject.com/) - Free and open source software for video recording and live streaming.
