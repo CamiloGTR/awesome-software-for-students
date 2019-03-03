@@ -61,7 +61,7 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 ## Reading
 * [Adobe Acrobat](https://get.adobe.com/reader/) - The most popular pdf viewer. It allows you to create, manipulate, print and manage pdf files.
 * [Evince](https://wiki.gnome.org/Apps/Evince) - A document viewer for multiple document formats. Originally from gnome, it can also be used in Windows. 
-* [Foxit Reader](https://www.foxitsoftware.com/pdf-reader/) ⭐ - Freemium PDF tool that can create, view, edit, digitally sign, and print PDF files
+* [Foxit Reader](https://www.foxitsoftware.com/pdf-reader/) ⭐ - Freemium PDF tool that can create, view, edit, digitally sign, and print PDF files.
 * [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader.html) - PDF, eBook (ePub, Mobi), XPS, DjVu, CHM, Comic Book (CBZ and CBR) reader for Windows.
 * [WinDjView](https://sourceforge.net/projects/windjview/) - Fast, compact and powerful DjVu viewer for Windows with tabbed interface, continuous scrolling and advanced printing options, based on free DjVuLibre library.
 * [Calibre](https://calibre-ebook.com/) - A cross-platform suite for organizing existing e-books into virtual libraries, displaying, editing, creating and converting e-books, as well as syncing e-books with a variety of e-readers.
@@ -69,14 +69,14 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 
 ## Citations
 * [Zotero](https://www.zotero.org/) ⭐ - An easy-to-use tool to help you collect, organize, cite, and share research.
-* [Mendeley](https://www.mendeley.com) - A desktop and web program for managing and sharing research papers, discovering research data and collaborating online
+* [Mendeley](https://www.mendeley.com) - A desktop and web program for managing and sharing research papers, discovering research data and collaborating online.
 
 ## Writing Papers
 * [Overleaf](https://www.overleaf.com/) ⭐ - An online LaTeX editor that's easy to use. No installation, real-time collaboration, version control, hundreds of LaTeX templates, and more.
 * [LaTeX](https://www.latex-project.org/) - High-quality typesetting system; it includes features designed for the production of technical and scientific documentation.
 * [TexMaker](http://www.xm1math.net/texmaker/) - Free cross-platform LaTeX editor.
 * [Jabref](http://www.jabref.org/) - Open source bibliography reference manager. The native file format used by JabRef is BibTeX, the standard LaTeX bibliography format. JabRef is a desktop application and runs on the Java VM (version 8).
-* [Lyx](https://www.lyx.org/) - Document processor that encourages an approach to writing based on the structure of your documents and not simply their appearance
+* [Lyx](https://www.lyx.org/) - Document processor that encourages an approach to writing based on the structure of your documents and not simply their appearance.
 
 ## Diagrams
 * [Draw.io](https://www.draw.io/) - Free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams.
@@ -85,7 +85,7 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 ## Screen Recorder
 * [OBS](https://obsproject.com/) - Free and open source software for video recording and live streaming.
 * [Streamlabs OBS](https://streamlabs.com/) ⭐ - A popular fork of OBS. 
-* [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/) - Highly customisable screencasting program for linux.
+* [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/) - Highly customisable screencasting program for Linux.
 
 ## Chat & Study Groups
 * [Jitsi](https://jitsi.org/jitsi-meet/) ⭐ - Secure video conferencing and desktop sharing using WebRTC.
@@ -136,7 +136,7 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 * [Wunderlist](https://www.wunderlist.com/) To-do list where users can manage manage their tasks from a smartphone, tablet, computer and smartwatch.
 * [Google Keep](https://keep.google.com/) - It can be used for easy to setup to-do lists.
 * [Evernote](https://evernote.com/) - Same as [Google Keep](https://keep.google.com/).
-* [ColdTurkey](https://getcoldturkey.com/) - Block digital distractions so you can be more productive and focus on what's most important to you
+* [ColdTurkey](https://getcoldturkey.com/) - Block digital distractions so you can be more productive and focus on what's most important to you.
 
 
 ## Music
@@ -165,10 +165,10 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 
 
 ## Audio & Composition
-* [Audacity](https://www.audacityteam.org/) ⭐ - An easy-to-use, multi-track audio editor and recorder for Windows, Mac OS X, GNU/Linux and other operating systems
+* [Audacity](https://www.audacityteam.org/) ⭐ - An easy-to-use, multi-track audio editor and recorder for Windows, Mac OS X, GNU/Linux and other operating systems.
 * [LMMS](https://lmms.io/) - A free, cross-platform tool to create music.
 * [Exact Audio Copy](http://www.exactaudiocopy.de/en/index.php/resources/download/): CD-Ripper popular among audiophiles for its accuracy and ability to rip slightly damaged audio compact discs.[Tutorial](https://github.com/flacfan/EAC-Guides/blob/master/part-2-ripping.md#ripping).
-* [Musescore](https://musescore.org/en) - A free and freemium scorewriter for Windows, macOS, and Linux, comparable to Finale and Sibelius, supporting a wide variety of file formats and input methods
+* [Musescore](https://musescore.org/en) - A free and freemium scorewriter for Windows, macOS, and Linux, comparable to Finale and Sibelius, supporting a wide variety of file formats and input methods.
 
 ## Design & Animation
 * [Blender](https://www.blender.org/) - A free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation. The program is optimized for productivity, and it doesn’t consider user experience, thus the learning curve is quite steep.
@@ -177,22 +177,22 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 * [Dynamobim](http://dynamobim.org/) - Open source graphical programming for design.
 
 ## DVD-CD
-* [ImgBurn](http://www.imgburn.com/) ⭐ - Burning images to discs, it can write files to discs, as well as create images from discs or files
-* [CDBurnerXP](https://cdburnerxp.se) - Burn CDs and DVDs, including Blu-Ray. It also includes the feature to burn and create ISOs
+* [ImgBurn](http://www.imgburn.com/) ⭐ - Burning images to discs, it can write files to discs, as well as create images from discs or files.
+* [CDBurnerXP](https://cdburnerxp.se) - Burn CDs and DVDs, including Blu-Ray. It also includes the feature to burn and create ISO files.
 
 ## Media Player & Video
 * [VLC](https://www.videolan.org/vlc/index.html) ⭐ - Media Player with built-in codecs.
 * [MPV](https://mpv.io/) - A free, open source, and cross-platform media player.
 * [SMPlayer](https://www.smplayer.info/) - Media Player with built-in codecs. It supports Chromecast.
-* [MPCHC](https://mpc-hc.org/) - An extremely light-weight, open source media player for Windows®. It supports all common video and audio file formats available for playback
+* [MPCHC](https://mpc-hc.org/) - An extremely light-weight, open source media player for Windows®. It supports all common video and audio file formats available for playback.
 * [FFmpeg](https://www.ffmpeg.org/) - A free software project consisting of a vast software suite of libraries and programs for handling video, audio, and other multimedia files and streams.
 * [Handbrake](https://handbrake.fr/) - aA tool for converting video from nearly any format to a selection of modern, widely supported codecs.
 
 ## Programming and Web Design
 * [Scratch](https://scratch.mit.edu/) - A free programming language and online community where you can create your own interactive stories, games, and animations. Its main focus is on children or people new to programming. 
 * [Notepad++](https://notepad-plus-plus.org/) - Source code editor which supports several programming languages running under the MS Windows environment.
-* [Atom](https://atom.io/) - Free and open-source text and source code editor for macOS, Linux, and Microsoft Windows with support for plug-ins written in Node.js, and embedded Git Control, developed by GitHub
-* [Visual Studio](https://visualstudio.microsoft.com/) ⭐ - An integrated development environment (IDE) from Microsoft. It is used to develop computer programs, as well as websites, web apps, web services and mobile apps
+* [Atom](https://atom.io/) - Free and open-source text and source code editor for macOS, Linux, and Microsoft Windows with support for plug-ins written in Node.js, and embedded Git Control, developed by GitHub.
+* [Visual Studio](https://visualstudio.microsoft.com/) ⭐ - An integrated development environment (IDE) from Microsoft. It is used to develop computer programs, as well as websites, web apps, web services and mobile apps.
 * [Sublime Text](https://www.sublimetext.com/3) - A cross-platform source code editor it supports many programming languages and functions can be added by users with plugins, typically community-built and maintained under free-software licenses.
 * [KidCAD EDA](http://kicad-pcb.org/) - a free software suite for electronic design automation. It facilitates the design of schematics for electronic circuits and their conversion to PCB designs.
 * [Arduino](https://www.arduino.cc/) - Open-source electronic prototyping platform enabling users to create interactive electronic objects.
@@ -239,12 +239,13 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 * [Openload](https://openload.co/) - Similar to Wetransfer the maximum file size is limited to 1 GB. The streamable files are deleted after 60 days inactivity (non streamable files after 30 days of inactivity)
 * [DBREE](https://dbr.ee/) ⭐ - Another option to share any type of files up to 500MB.
 * [FilePizza](https://file.pizza/) ⭐- Peer-to-peer file transfers but in your browser. No limitations of file sizes as it is peer-to-peer.
+* [OnionShare 2](https://onionshare.org/) - An open source tool that lets you securely and anonymously share a file of any size via the Tor network. Keep in mind that the recipient doesn't need OnionShare, just the Tor Browser to download the file.
 
 (*): If your school/college provides you with an educational account (@nameofmyschool.com) to have unlimited storage in Google Drive or 1TB in Onedrive keep in mind that the account could be deleted if you drop out/graduate.
 
 
 ## Misc & Utilities
-* [Space Engine](http://spaceengine.org/) -  a realistic virtual Universe you can explore on your computer. You can travel from star to star, from galaxy to galaxy, landing on any planet, moon, or asteroid with the ability to explore its alien landscape.
+* [Space Engine](http://spaceengine.org/) -  A realistic virtual Universe you can explore on your computer. You can travel from star to star, from galaxy to galaxy, landing on any planet, moon, or asteroid with the ability to explore its alien landscape.
 * [Focus](https://chrome.google.com/webstore/detail/focus/paipcheolflniajdfeglfpddafcklepg) - A Chrome extension with a few simple tactics to help prevent procrastination.
 * [LeechBlock](https://addons.mozilla.org/en-US/firefox/addon/leechblock/) - A Firefox extension designed to block those time-wasting sites.
 * [VirtualBox](https://www.virtualbox.org/) ⭐ - Feature rich virtualization tools with support for many operating systems.
