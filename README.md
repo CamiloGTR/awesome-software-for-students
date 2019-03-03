@@ -1,10 +1,12 @@
 # Awesome Software for Students [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 # Introduction
-Hi! I'm an English as a Foreign Language Teacher and during my classes I see my students having problems to deliver different kind of tasks from the other subjects. In most cases, most of the work can be easily done by working together with their peers (collaboration) or can be fully automatized with an app. In other words, you are not required to be a expert in Adobe Illustrator to create an infography. However, many students are unaware of the software available nowadays that can be quite helpful. Besides, I had a look at this resource entitled "100 free useful software for students". The following list is an update and curated version of [this infography](https://i.imgur.com/0e07EWn.jpg) inspired by [this list](https://github.com/Igglybuff/awesome-piracy) and considering students needs.  
+Hi! I'm an English as a Foreign Language Teacher and during my classes I see my students having problems to deliver the assingments for the different subjects they have. In most cases, most of the work can be easily done by working together with their peers (collaboration) or can be fully automatized with an app. In other words, my point as a teacher, is that you are not required to be a expert in Adobe Illustrator to create an attractive and good infography, for instance. However, many students are unaware of the software available nowadays that can be quite helpful.
+
+The following list is an update and curated version of [this infography](https://i.imgur.com/0e07EWn.jpg) inspired by [this list](https://github.com/Igglybuff/awesome-piracy) and considering students needs.  
 
 # Emoji
-I took the idea from here and it is basically the same principle. I added a ⭐ to some of the apps, which represent my pick for that category. This is based on an opinion so keep that mind. I try to use software that is easy to use and setup. By no means, an app with a "⭐" is going to be the best one there.
+I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it is basically the same principle. I added a ⭐ to some of the apps, which represent my pick for that category. This is based on my opinion so keep that mind. I try to use software that is easy to use and setup. By no means, an app with a "⭐" is going to be the best one there.
 
 ## Contents
 * [Office Suite](#office-suite)
