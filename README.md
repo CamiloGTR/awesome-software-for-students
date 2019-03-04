@@ -117,7 +117,7 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 * [Google Slides](https://www.google.com/slides/about/) - Similar to Power Point but with the added element of collaboration.
 
 ## Web
-* [Firefox](https://www.mozilla.org) - Web browser with a large collection of add-ons available. It is backed by Mozilla, a non-profit organization that supports innovation, freedom, and an open Web.
+* [Firefox](https://www.mozilla.org) ⭐ - Web browser with a large collection of add-ons available. It is backed by Mozilla, a non-profit organization that supports innovation, freedom, and an open Web.
 * [Vivaldi](https://vivaldi.com/) - From the same team that developed Opera (so many features remain the same), this browser started as some users disgruntled the transition of Opera from the Presto layout engine to a Chromium-based browser.
 * [Brave](https://brave.com/) - An open-source web browser developed by Brave Software Inc. based on the Chromium web browser. The browser blocks ads and website trackers.
 
