@@ -43,7 +43,7 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 
 
 ## Office Suite
-* [Google Docs](https://www.google.com/docs/about/) ⭐ - Collaborative  editing and styling tools to help you easily format text and paragraphs. 
+* [Google Docs](https://www.google.com/docs/about/) ⭐ - Collaborative  editing and styling tools to help you easily format text and paragraphs. You can share the documents and work collaboratively in real time with other people. 
 * [Microsoft Office Online](https://www.office.com/) - Online office suite offered by Microsoft, which allows users to create and edit files using lightweight Office web apps (Word, Excel, PowerPoint and OneNote).
 * [Libre Office](https://www.libreoffice.org/) - Free office suite, open source, and compatible with .doc, .docx, .xls, .xlsx, .ppt, .pptx files. Updated regularly.
 * [Zoho](https://www.zoho.com/) - Web-based office suite containing many tools such as wikis, web conferencing, customer relationship management, project management, invoicing, and other applications.
