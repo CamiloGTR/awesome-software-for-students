@@ -226,7 +226,7 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 * [Teamviewer](https://www.teamviewer.com) - A proprietary cross-platform software for remote control, desktop sharing, online meetings, web conferencing and file transfer between computers. 
 * [RealVNC](https://www.realvnc.com) -  A remote access software similar to the Teamviewer. 
 * [Anydesk](https://anydesk.com/remote-desktop) ⭐ - A proprietary cross-platform remote desktop.
-* [Chrome Remote Desktop](https://chrome.google.com/webstore/detail/chrome-remote-desktop/gbchcmhmhahfdphkhkmpfmihenigjmpp?hl=en) - Access other computers or allow another user to access your computer securely over the Internet. The options are very basic in contrast with other options. 
+* [Chrome Remote Desktop](https://chrome.google.com/webstore/detail/chrome-remote-desktop/gbchcmhmhahfdphkhkmpfmihenigjmpp?hl=en) - Access other computers or allow another user to access your computer securely over the Internet. The options are very basic in contrast with the software previously mentioned. 
 
 ## Cloud Storage & File Uploads
 * [Google Drive](https://drive.google.com/) - 15 GB shared between Google Photos, Gmail and Google Drive. [These elements](https://www.screencast.com/t/3LKLupSMT) count towards your quota, while [these others](https://www.screencast.com/t/vfzu591AA) don't. [Plans here](https://one.google.com/) (*).
