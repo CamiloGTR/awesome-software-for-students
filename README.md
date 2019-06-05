@@ -231,7 +231,7 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 ## Cloud Storage & File Uploads
 * [Google Drive](https://drive.google.com/) - 15 GB shared between Google Photos, Gmail and Google Drive. [These elements](https://www.screencast.com/t/3LKLupSMT) count towards your quota, while [these others](https://www.screencast.com/t/vfzu591AA) don't. [Plans here](https://one.google.com/) (*).
 * [One Drive](https://onedrive.live.com/) - 5GB storage. [Plans here](https://onedrive.live.com/about/en-US/plans/) (*).
-* [Dropbox](https://www.dropbox.com/) - 2GB storage. [Plans here].(https://www.dropbox.com/individual/plans-comparison)
+* [Dropbox](https://www.dropbox.com/) - 2GB storage. [Plans here](https://www.dropbox.com/individual/plans-comparison).
 * [Mega](https://mega.nz/) - 15GB Storage. [Plans here](https://mega.nz/pro).
 * [Sync](https://www.sync.com/) ⭐ - For users concerned about privacy, Sync offers 5GB of free end-to-end encrypted storage (only you can access your data in the cloud). They have paid plans as well. 
 * [Resilio](https://www.resilio.com/) ⭐ - Fast p2p file sync software for enterprises and individuals that performs on any machine, data, scale, or network.
