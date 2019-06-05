@@ -272,7 +272,7 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 * [DarkTable](https://darktable.org/) - A program that manages your digital negatives and enables you to develop raw images and enhance them.
 * [ImageJ](https://imagej.net/Welcome) - An image processing program designed for scientific multidimensional images.
 * [Aegisub ](http://www.aegisub.org/) - A  tool for creating and modifying subtitles.
-* [AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) ⭐ - An Android keyboard, similar to Gboard, but without the part that collects your typing to "improve
+* [AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) ⭐ - An Android keyboard, similar to Gboard, but without the part that collects your typing to "improve your experience"
 
 ## Contribute
 Contributions welcome! Read [the contribution guidelines first](https://github.com/CamiloGTR/School-Software/blob/master/contributing.md).
