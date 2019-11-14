@@ -52,6 +52,7 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 * [One Note](https://www.onenote.com/download) - Microsoft app to take notes. It's quite useful if you use a pen or a touchpad.
 * [Google Keep](https://keep.google.com/) ⭐ - Note-taking service developed by Google.
 * [Evernote](https://evernote.com/) ⭐ - App that keeps your notes organized. Memos are synced so they're accessible anywhere, and searchable so you always find what you need.
+* [Notable](https://notable.md/) ⭐ - Notable provides a very powerful Markdown editor, it's the same one VS Code uses in fact, so features like multi-cursors, a minimap and best-in-class syntax highlighting are built-in.
 * [Jotterpad](https://2appstudio.com/jotterpad/) - A minimalistic writing app for Android.
 * [Dark Room](http://jjafuller.com/dark-room/) - A full-screen text editor that makes writing on your computer like using a typewriter: an empty screen with just your words on it. Windows only
 * [Markdownify](https://markdownify.js.org/) -  A minimal Markdown editor.
@@ -61,8 +62,8 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 ## Reading
 * [Adobe Acrobat](https://get.adobe.com/reader/) - The most popular pdf viewer. It allows you to create, manipulate, print and manage pdf files. It used in libraries or public places. It'll do the job just fine, but there are better alternatives. 
 * [Evince](https://wiki.gnome.org/Apps/Evince) - A document viewer for multiple document formats. Originally from gnome, it can also be used in Windows. 
-* [Foxit Reader](https://www.foxitsoftware.com/pdf-reader/) ⭐ - Freemium PDF tool that can create, view, edit, digitally sign, and print PDF files.
-* [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader.html) - PDF, eBook (ePub, Mobi), XPS, DjVu, CHM, Comic Book (CBZ and CBR) reader for Windows.
+* [Foxit Reader](https://www.foxitsoftware.com/pdf-reader/) - Freemium PDF tool that can create, view, edit, digitally sign, and print PDF files.
+* [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader.html) ⭐ - PDF, eBook (ePub, Mobi), XPS, DjVu, CHM, Comic Book (CBZ and CBR) reader for Windows.
 * [WinDjView](https://sourceforge.net/projects/windjview/) - Fast, compact and powerful DjVu viewer for Windows with tabbed interface, continuous scrolling and advanced printing options, based on free DjVuLibre library.
 * [Calibre](https://calibre-ebook.com/) - A cross-platform suite for organizing existing e-books into virtual libraries, displaying, editing, creating and converting e-books, as well as syncing e-books with a variety of e-readers.
 
@@ -237,9 +238,9 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 * [Resilio](https://www.resilio.com/) ⭐ - Fast p2p file sync software for enterprises and individuals that performs on any machine, data, scale, or network.
 * [Syncthing](https://syncthing.net/) - An open-source peer-to-peer file synchronization.
 * [Wetransfer](https://wetransfer.com/) ⭐- Webpage to share files up to 2GB. 
-* [Openload](https://openload.co/) - Similar to Wetransfer the maximum file size is limited to 1 GB. The streamable files are deleted after 60 days inactivity (non streamable files after 30 days of inactivity)
 * [Firefox Send](https://send.firefox.com/) ⭐ - Encrypt and send files with a link that automatically expires to ensure your important documents don’t stay online forever. If  you sign in, you can send files up to 2.5GB.
 * [FilePizza](https://file.pizza/) ⭐- Peer-to-peer file transfers but in your browser. No limitations of file sizes as it is peer-to-peer.
+* [Envelop](https://envelop.app/) - The service runs on runs on blockstack. You decide where your files are stored. You can use the default storage or setup your own storage. With no file limits and no tracking. 
 * [OnionShare 2](https://onionshare.org/) - An open source tool that lets you securely and anonymously share a file of any size via the Tor network. Keep in mind that the recipient doesn't need OnionShare, just the Tor Browser to download the file.
 * [swisstransfer](https://www.swisstransfer.com/en) - Services from Switzerland. You can send up to 25 GB (no registration required) and keep your transfers for up to 30 d.
 
