@@ -52,7 +52,7 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 * [One Note](https://www.onenote.com/download) - Microsoft app to take notes. It's quite useful if you use a pen or a touchpad.
 * [Google Keep](https://keep.google.com/) ⭐ - Note-taking service developed by Google.
 * [Evernote](https://evernote.com/) ⭐ - App that keeps your notes organized. Memos are synced so they're accessible anywhere, and searchable so you always find what you need.
-* [Notable](https://notable.md/) ⭐ - Notable provides a very powerful Markdown editor, it's the same one VS Code uses in fact, so features like multi-cursors, a minimap and best-in-class syntax highlighting are built-in.
+* [Notable](https://notable.md/) ⭐ - It provides a very powerful Markdown editor, it's the same one VS Code uses in fact, so features like multi-cursors, a minimap and best-in-class syntax highlighting are built-in.
 * [Jotterpad](https://2appstudio.com/jotterpad/) - A minimalistic writing app for Android.
 * [Dark Room](http://jjafuller.com/dark-room/) - A full-screen text editor that makes writing on your computer like using a typewriter: an empty screen with just your words on it. Windows only
 * [Markdownify](https://markdownify.js.org/) -  A minimal Markdown editor.
