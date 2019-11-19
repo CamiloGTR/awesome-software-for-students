@@ -274,6 +274,7 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 * [ImageJ](https://imagej.net/Welcome) - An image processing program designed for scientific multidimensional images.
 * [Aegisub ](http://www.aegisub.org/) - A  tool for creating and modifying subtitles.
 * [AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) ⭐ - An Android keyboard, similar to Gboard, but without the part that collects your typing to "improve your experience"
+* [Alternativeto](https://alternativeto.net/) - A community that allows to search for alternatives to different apps. It's people-oriented, so you have some feedback related to the alternatives.  
 
 ## Contribute
 Contributions welcome! Read [the contribution guidelines first](https://github.com/CamiloGTR/School-Software/blob/master/contributing.md).
