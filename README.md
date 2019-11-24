@@ -239,10 +239,12 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 * [Syncthing](https://syncthing.net/) - An open-source peer-to-peer file synchronization.
 * [Wetransfer](https://wetransfer.com/) ⭐- Webpage to share files up to 2GB. 
 * [Firefox Send](https://send.firefox.com/) ⭐ - Encrypt and send files with a link that automatically expires to ensure your important documents don’t stay online forever. If  you sign in, you can send files up to 2.5GB.
-* [FilePizza](https://file.pizza/) ⭐- Peer-to-peer file transfers but in your browser. No limitations of file sizes as it is peer-to-peer.
+* [FilePizza](https://file.pizza/) - Peer-to-peer file transfers but in your browser.
+* [Blaze](https://blaze.now.sh/) - Share files using just a web browser via p2p protocol. 
+* [Sharedrop](https://www.sharedrop.io) ⭐ - P2P file sharing webpage.
 * [Envelop](https://envelop.app/) - The service runs on runs on blockstack. You decide where your files are stored. You can use the default storage or setup your own storage. With no file limits and no tracking. 
 * [OnionShare 2](https://onionshare.org/) - An open source tool that lets you securely and anonymously share a file of any size via the Tor network. Keep in mind that the recipient doesn't need OnionShare, just the Tor Browser to download the file.
-* [swisstransfer](https://www.swisstransfer.com/en) - Services from Switzerland. You can send up to 25 GB (no registration required) and keep your transfers for up to 30 d.
+* [Swisstransfer](https://www.swisstransfer.com/en) - Services from Switzerland. You can send up to 25 GB (no registration required) and keep your transfers for up to 30 d.
 
 
 (*): If your school/college provides you with an educational account (@nameofmyschool.com) to have unlimited storage in Google Drive or 1TB in Onedrive keep in mind that the account could be deleted if you drop out/graduate.
