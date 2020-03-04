@@ -58,6 +58,7 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 * [Markdownify](https://markdownify.js.org/) -  A minimal Markdown editor.
 * [Etherpad](http://etherpad.org/) - Customizable open source online editor providing collaborative editing in really real-time. 
 * [ZimWiki](http://zim-wiki.org/) - A wiki-style notebook, for Linux and Windows, that uses local file storage.
+* [Taskade](https://taskade.com/) - A realtime organization and collaboration tool for outlining tasks and notes with video chat.
 
 ## Reading
 * [Adobe Acrobat](https://get.adobe.com/reader/) - The most popular pdf viewer. It allows you to create, manipulate, print and manage pdf files. It used in libraries or public places. It'll do the job just fine, but there are better alternatives. 
