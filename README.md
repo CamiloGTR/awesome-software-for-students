@@ -91,6 +91,7 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 
 ## Chat & Study Groups
 * [Jitsi](https://jitsi.org/jitsi-meet/) ⭐ - Secure video conferencing and desktop sharing using WebRTC.
+* [https://jami.net/](https://jami.net/) - Similar to Jitsi, this is an open source alternative for video conferences that respects your privacy and data.
 * [Ring](https://ring.cx/) - Telephone, teleconferencing, and media sharing through a distributed service.
 * [Appearin](https://appear.in/) - A video collaboration tool that lets you have video conversations effortlessly without requiring any downloads. PRO supports up to 12 people simultaneously.
 * [Slack](https://slack.com/) - It's a cloud-based set of proprietary team collaboration tools and services. Very popular among different workspaces. Video conference is paid though. 
