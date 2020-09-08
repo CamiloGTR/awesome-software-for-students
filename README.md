@@ -43,7 +43,7 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 
 
 ## Office Suite
-* [Google Docs](https://www.google.com/docs/about/) ⭐ - Collaborative  editing and styling tools to help you easily format text and paragraphs. You can share the documents and work collaboratively in real time with other people. 
+* [Google Docs](https://www.google.com/docs/about/) ⭐ - Collaborative  editing and styling tools to help you easily format text and paragraphs. You can share the documents and work collaboratively in real time with other people.
 * [Microsoft Office Online](https://www.office.com/) - Online office suite offered by Microsoft, which allows users to create and edit files using lightweight Office web apps (Word, Excel, PowerPoint and OneNote).
 * [Libre Office](https://www.libreoffice.org/) - Free office suite, open source, and compatible with .doc, .docx, .xls, .xlsx, .ppt, .pptx files. Updated regularly.
 * [Zoho](https://www.zoho.com/) - Web-based office suite containing many tools such as wikis, web conferencing, customer relationship management, project management, invoicing, and other applications.
@@ -56,12 +56,12 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 * [Jotterpad](https://2appstudio.com/jotterpad/) - A minimalistic writing app for Android.
 * [Dark Room](http://jjafuller.com/dark-room/) - A full-screen text editor that makes writing on your computer like using a typewriter: an empty screen with just your words on it. Windows only
 * [Markdownify](https://markdownify.js.org/) -  A minimal Markdown editor.
-* [Etherpad](http://etherpad.org/) - Customizable open source online editor providing collaborative editing in really real-time. 
+* [Etherpad](http://etherpad.org/) - Customizable open source online editor providing collaborative editing in really real-time.
 * [ZimWiki](http://zim-wiki.org/) - A wiki-style notebook, for Linux and Windows, that uses local file storage.
 
 ## Reading
-* [Adobe Acrobat](https://get.adobe.com/reader/) - The most popular pdf viewer. It allows you to create, manipulate, print and manage pdf files. It used in libraries or public places. It'll do the job just fine, but there are better alternatives. 
-* [Evince](https://wiki.gnome.org/Apps/Evince) - A document viewer for multiple document formats. Originally from gnome, it can also be used in Windows. 
+* [Adobe Acrobat](https://get.adobe.com/reader/) - The most popular pdf viewer. It allows you to create, manipulate, print and manage pdf files. It used in libraries or public places. It'll do the job just fine, but there are better alternatives.
+* [Evince](https://wiki.gnome.org/Apps/Evince) - A document viewer for multiple document formats. Originally from gnome, it can also be used in Windows.
 * [Foxit Reader](https://www.foxitsoftware.com/pdf-reader/) - Freemium PDF tool that can create, view, edit, digitally sign, and print PDF files.
 * [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader.html) ⭐ - PDF, eBook (ePub, Mobi), XPS, DjVu, CHM, Comic Book (CBZ and CBR) reader for Windows.
 * [WinDjView](https://sourceforge.net/projects/windjview/) - Fast, compact and powerful DjVu viewer for Windows with tabbed interface, continuous scrolling and advanced printing options, based on free DjVuLibre library.
@@ -82,11 +82,11 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 ## Diagrams
 * [Draw.io](https://www.draw.io/) - Free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams.
 * [Xmind](https://www.xmind.net/) - A mind mapping and brainstorming tool.
-* [Canva](https://www.canva.com/) - A website to create different kind of resources such as infographies, facebook covers, instagram posts, among others. It uses a drag-and-drop format, so it's quite easy to use. 
+* [Canva](https://www.canva.com/) - A website to create different kind of resources such as infographies, facebook covers, instagram posts, among others. It uses a drag-and-drop format, so it's quite easy to use.
 
 ## Screen Recorder
 * [OBS](https://obsproject.com/) - Free and open source software for video recording and live streaming.
-* [Streamlabs OBS](https://streamlabs.com/) ⭐ - A popular fork of OBS. 
+* [Streamlabs OBS](https://streamlabs.com/) ⭐ - A popular fork of OBS.
 * [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/) - Highly customisable screencasting program for Linux.
 
 ## Chat & Study Groups
@@ -94,8 +94,8 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 * [Jami](https://jami.net/) - Similar to Jitsi, this is an open source alternative for video conferences that respects your privacy and data.
 * [Ring](https://ring.cx/) - Telephone, teleconferencing, and media sharing through a distributed service.
 * [Appearin](https://appear.in/) - A video collaboration tool that lets you have video conversations effortlessly without requiring any downloads. PRO supports up to 12 people simultaneously.
-* [Slack](https://slack.com/) - It's a cloud-based set of proprietary team collaboration tools and services. Very popular among different workspaces. Video conference is paid though. 
-* [Hangout](https://hangouts.google.com/) - Communication platform which includes messaging, video chat, SMS and VOIP features. Very easy and useful among Google users to setup a video conference. 
+* [Slack](https://slack.com/) - It's a cloud-based set of proprietary team collaboration tools and services. Very popular among different workspaces. Video conference is paid though.
+* [Hangout](https://hangouts.google.com/) - Communication platform which includes messaging, video chat, SMS and VOIP features. Very easy and useful among Google users to setup a video conference.
 * [Discord](https://discordapp.com/) - Freeware VoIP application and digital distribution platform. Formally, it was intended to the videogaming community however there are many groups in different servers to learn or practice many subjects.
 * [Telegram](https://telegram.org/) - Cloud-based instant messaging and voice over IP service. It has many characteristics that other clients lack of of.
 * [Signal](https://www.whispersystems.org/) ⭐ - Private messaging and calling for desktop, Android, and iOS.
@@ -136,7 +136,6 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 ## Time Management
 * [Todoist](https://todoist.com) ⭐ - Cross platafom tool for managing tasks.
 * [Trello](https://trello.com/) - Visual collaboration tool for planning tasks and projects.
-* [Wunderlist](https://www.wunderlist.com/) To-do list where users can manage manage their tasks from a smartphone, tablet, computer and smartwatch.
 * [Google Keep](https://keep.google.com/) - It can be used for easy to setup to-do lists.
 * [Evernote](https://evernote.com/) - Same as [Google Keep](https://keep.google.com/).
 * [ColdTurkey](https://getcoldturkey.com/) - Block digital distractions so you can be more productive and focus on what's most important to you.
@@ -163,7 +162,7 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 * [Greenshot](http://getgreenshot.org/) - A tool for making screenshots for Windows.
 * [Inkscape](https://inkscape.org/) - Professional vector graphics editor for all platforms.
 * [Krita](https://krita.org/) - Painting program made by artists.
-* [Pinta](https://pinta-project.com/pintaproject/pinta/) - Gtk# clone of Paint.NET.
+* [Pinta](https://pinta-project.com/) - Gtk# clone of Paint.NET.
 * [Piskel](https://www.piskelapp.com/) - Online sprite editor.
 
 
@@ -192,7 +191,7 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 * [Handbrake](https://handbrake.fr/) - aA tool for converting video from nearly any format to a selection of modern, widely supported codecs.
 
 ## Programming and Web Design
-* [Scratch](https://scratch.mit.edu/) - A free programming language and online community where you can create your own interactive stories, games, and animations. Its main focus is on children or people new to programming. 
+* [Scratch](https://scratch.mit.edu/) - A free programming language and online community where you can create your own interactive stories, games, and animations. Its main focus is on children or people new to programming.
 * [Notepad++](https://notepad-plus-plus.org/) - Source code editor which supports several programming languages running under the MS Windows environment.
 * [Atom](https://atom.io/) - Free and open-source text and source code editor for macOS, Linux, and Microsoft Windows with support for plug-ins written in Node.js, and embedded Git Control, developed by GitHub.
 * [Visual Studio](https://visualstudio.microsoft.com/) ⭐ - An integrated development environment (IDE) from Microsoft. It is used to develop computer programs, as well as websites, web apps, web services and mobile apps.
@@ -201,9 +200,9 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 * [Arduino](https://www.arduino.cc/) - Open-source electronic prototyping platform enabling users to create interactive electronic objects.
 * [CodeBlocks](http://www.codeblocks.org/) -  a free C, C++ and Fortran IDE. It is designed to be very extensible and fully configurable.
 * [NetBeans](https://netbeans.org/) - an integrated development environment for Java.
-* [PostMan](https://www.getpostman.com/) - An API development environment. 
+* [PostMan](https://www.getpostman.com/) - An API development environment.
 * [FreeXML Editor](http://www.firstobject.com/dn_editor.htm) -  A free XML editor for Windows that can load big files fast and lets you format XML and edit HTML and any loosely formed XML.
-* [Vim](https://www.vim.org/download.php) - An editor to program. 
+* [Vim](https://www.vim.org/download.php) - An editor to program.
 * [Geany](https://www.geany.org/) - A lightweight GUI text editor using Scintilla and GTK+, including basic IDE feature
 
 ## Math
@@ -215,35 +214,35 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 * [R Project](https://cran.r-project.org/mirrors.html) - A programming language and free software environment for statistical computing and graphics supported by the R Foundation.
 * [Powerbi](https://powerbi.microsoft.com/en-us/) - A business analytics service by Microsoft. It provides interactive visualizations od data.
 * [QGIS](www.qgis.org) - A free and open source Geographic Information System.
-* [Stata](https://www.stata.com/) - A general-purpose statistical software package. Stata's capabilities include data management, statistical analysis, graphics, simulations, regression, and custom programming. It also has a system to disseminate user-written programs that lets it grow continuously. 
+* [Stata](https://www.stata.com/) - A general-purpose statistical software package. Stata's capabilities include data management, statistical analysis, graphics, simulations, regression, and custom programming. It also has a system to disseminate user-written programs that lets it grow continuously.
 
 ## Social Media
 * [Buffer](https://buffer.com/) - A software application for the web and mobile, designed to manage accounts in social networks.
 
 ## Security
-* [Malwarebytes](https://www.malwarebytes.com/) ⭐ - Find and remove malware from your computer. Although, you can pay for the PRO edition, the free version should be enough. 
-* [Windows Defender](https://www.microsoft.com/en-us/windows/comprehensive-security) - On Windows 10, you already have this tool which is able to replace most of of previous popular antivirus softwares as far as you take care of your behavious online. 
+* [Malwarebytes](https://www.malwarebytes.com/) ⭐ - Find and remove malware from your computer. Although, you can pay for the PRO edition, the free version should be enough.
+* [Windows Defender](https://www.microsoft.com/en-us/windows/comprehensive-security) - On Windows 10, you already have this tool which is able to replace most of of previous popular antivirus softwares as far as you take care of your behavious online.
 
 ## Remote Control
-* [Teamviewer](https://www.teamviewer.com) - A proprietary cross-platform software for remote control, desktop sharing, online meetings, web conferencing and file transfer between computers. 
-* [RealVNC](https://www.realvnc.com) -  A remote access software similar to the Teamviewer. 
+* [Teamviewer](https://www.teamviewer.com) - A proprietary cross-platform software for remote control, desktop sharing, online meetings, web conferencing and file transfer between computers.
+* [RealVNC](https://www.realvnc.com) -  A remote access software similar to the Teamviewer.
 * [Anydesk](https://anydesk.com/remote-desktop) ⭐ - A proprietary cross-platform remote desktop.
-* [Chrome Remote Desktop](https://chrome.google.com/webstore/detail/chrome-remote-desktop/gbchcmhmhahfdphkhkmpfmihenigjmpp?hl=en) - Access other computers or allow another user to access your computer securely over the Internet. The options are very basic in contrast with the software previously mentioned. 
+* [Chrome Remote Desktop](https://chrome.google.com/webstore/detail/chrome-remote-desktop/gbchcmhmhahfdphkhkmpfmihenigjmpp?hl=en) - Access other computers or allow another user to access your computer securely over the Internet. The options are very basic in contrast with the software previously mentioned.
 
 ## Cloud Storage & File Uploads
 * [Google Drive](https://drive.google.com/) - 15 GB shared between Google Photos, Gmail and Google Drive. [These elements](https://www.screencast.com/t/3LKLupSMT) count towards your quota, while [these others](https://www.screencast.com/t/vfzu591AA) don't. [Plans here](https://one.google.com/) (*).
 * [One Drive](https://onedrive.live.com/) - 5GB storage. [Plans here](https://onedrive.live.com/about/en-US/plans/) (*).
 * [Dropbox](https://www.dropbox.com/) - 2GB storage. [Plans here](https://www.dropbox.com/individual/plans-comparison).
 * [Mega](https://mega.nz/) - 15GB Storage. [Plans here](https://mega.nz/pro).
-* [Sync](https://www.sync.com/) ⭐ - For users concerned about privacy, Sync offers 5GB of free end-to-end encrypted storage (only you can access your data in the cloud). They have paid plans as well. 
+* [Sync](https://www.sync.com/) ⭐ - For users concerned about privacy, Sync offers 5GB of free end-to-end encrypted storage (only you can access your data in the cloud). They have paid plans as well.
 * [Resilio](https://www.resilio.com/) ⭐ - Fast p2p file sync software for enterprises and individuals that performs on any machine, data, scale, or network.
 * [Syncthing](https://syncthing.net/) - An open-source peer-to-peer file synchronization.
-* [Wetransfer](https://wetransfer.com/) ⭐- Webpage to share files up to 2GB. 
+* [Wetransfer](https://wetransfer.com/) ⭐- Webpage to share files up to 2GB.
 * [Firefox Send](https://send.firefox.com/) ⭐ - Encrypt and send files with a link that automatically expires to ensure your important documents don’t stay online forever. If  you sign in, you can send files up to 2.5GB.
 * [FilePizza](https://file.pizza/) - Peer-to-peer file transfers but in your browser.
-* [Blaze](https://blaze.now.sh/) - Share files using just a web browser via p2p protocol. 
+* [Blaze](https://blaze.now.sh/) - Share files using just a web browser via p2p protocol.
 * [Sharedrop](https://www.sharedrop.io) ⭐ - P2P file sharing webpage.
-* [Envelop](https://envelop.app/) - The service runs on runs on blockstack. You decide where your files are stored. You can use the default storage or setup your own storage. With no file limits and no tracking. 
+* [Envelop](https://envelop.app/) - The service runs on runs on blockstack. You decide where your files are stored. You can use the default storage or setup your own storage. With no file limits and no tracking.
 * [OnionShare 2](https://onionshare.org/) - An open source tool that lets you securely and anonymously share a file of any size via the Tor network. Keep in mind that the recipient doesn't need OnionShare, just the Tor Browser to download the file.
 * [Swisstransfer](https://www.swisstransfer.com/en) - Services from Switzerland. You can send up to 25 GB (no registration required) and keep your transfers for up to 30 d.
 
@@ -256,12 +255,12 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 * [Focus](https://chrome.google.com/webstore/detail/focus/paipcheolflniajdfeglfpddafcklepg) - A Chrome extension with a few simple tactics to help prevent procrastination.
 * [LeechBlock](https://addons.mozilla.org/en-US/firefox/addon/leechblock/) - A Firefox extension designed to block those time-wasting sites.
 * [VirtualBox](https://www.virtualbox.org/) ⭐ - Feature rich virtualization tools with support for many operating systems.
-* [Ninite](https://ninite.com/) ⭐ - Install and update many programs at once. Many of the apps listed here are included in Ninite. It is quite useful after a clean installation of Windows. 
+* [Ninite](https://ninite.com/) ⭐ - Install and update many programs at once. Many of the apps listed here are included in Ninite. It is quite useful after a clean installation of Windows.
 * [Privacy Badger](https://www.eff.org/privacybadger) - Automatically learns to block invisible trackers to protect your privacy.
 * [HTTPS Everywhere](https://www.eff.org/https-everywhere) - A Firefox, Chrome, and Opera extension that encrypts your communications with many major websites, making your browsing more secure.
-* [Pihole](https://pi-hole.net/) - Network-wide ad blocking via Linux. If you have a Raspberry laying around it might come handy for this project. 
+* [Pihole](https://pi-hole.net/) - Network-wide ad blocking via Linux. If you have a Raspberry laying around it might come handy for this project.
 * [Recuva]() - Recover files from your Windows computer, recycle bin, digital camera card, or MP3 player.
-* [Linux OS](https://www.linux.org/pages/download/) - A list of popular Linux Operating Systems. 
+* [Linux OS](https://www.linux.org/pages/download/) - A list of popular Linux Operating Systems.
 * [NewPipe](https://newpipe.schabi.org/) - A free and open-source media player app that is most well-known as a YouTube client.
 * [GNU Cash](https://www.gnucash.org/) - Multiplatform personal and small-business financial-accounting software.
 * [Vlex](https://vlex.com/) - A comprehensive legal data spanning 100+ countries on an intelligent & intuitive platform that delivers the most relevant results fast.
@@ -270,14 +269,14 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 * [HeidiSQL](https://www.heidisql.com/) - A tool to see and edit data and structures from computers running one of the database systems MySQL, MariaDB, Microsoft SQL or PostgreSQL.
 * [Etcher](https://www.balena.io/etcher/) ⭐ - Flash OS images to SD cards & USB drives, safely and easily.
 * [Schoology](https://www.schoology.com/) - A management system with assessment management to improve student performance, foster collaboration, and personalize learning.
-* [MoodleCloud](https://moodlecloud.com/) - Free version of moodle in the cloud. 
+* [MoodleCloud](https://moodlecloud.com/) - Free version of moodle in the cloud.
 * [RawTherapee](https://rawtherapee.com/) - A cross-platform raw image processing program.
 * [Tropy](https://tropy.org/) - An open-source software that allows you to organize and describe photographs of research material.
 * [DarkTable](https://darktable.org/) - A program that manages your digital negatives and enables you to develop raw images and enhance them.
 * [ImageJ](https://imagej.net/Welcome) - An image processing program designed for scientific multidimensional images.
 * [Aegisub ](http://www.aegisub.org/) - A  tool for creating and modifying subtitles.
 * [AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) ⭐ - An Android keyboard, similar to Gboard, but without the part that collects your typing to "improve your experience"
-* [Alternativeto](https://alternativeto.net/) - A community that allows to search for alternatives to different apps. It's people-oriented, so you have some feedback related to the alternatives.  
+* [Alternativeto](https://alternativeto.net/) - A community that allows to search for alternatives to different apps. It's people-oriented, so you have some feedback related to the alternatives.
 
 ## Contribute
 Contributions welcome! Read [the contribution guidelines first](https://github.com/CamiloGTR/School-Software/blob/master/contributing.md).
