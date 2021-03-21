@@ -59,6 +59,7 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 * [Etherpad](http://etherpad.org/) - Customizable open source online editor providing collaborative editing in really real-time.
 * [ZimWiki](http://zim-wiki.org/) - A wiki-style notebook, for Linux and Windows, that uses local file storage.
 * [Taskade](https://taskade.com/) - A realtime organization and collaboration tool for outlining tasks and notes with video chat.
+* [Notion](https://www.notion.so/) ⭐ - A multipurpouse tool. It can be used to take notes, archive information, organize teams, etc. You can use yout student's email account to have a Personal Pro account for free.
 
 ## Reading
 * [Adobe Acrobat](https://get.adobe.com/reader/) - The most popular pdf viewer. It allows you to create, manipulate, print and manage pdf files. It used in libraries or public places. It'll do the job just fine, but there are better alternatives.
@@ -83,7 +84,7 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 ## Diagrams
 * [Draw.io](https://www.draw.io/) - Free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams.
 * [Xmind](https://www.xmind.net/) - A mind mapping and brainstorming tool.
-* [Canva](https://www.canva.com/) - A website to create different kind of resources such as infographies, facebook covers, instagram posts, among others. It uses a drag-and-drop format, so it's quite easy to use.
+* [Canva](https://www.canva.com/) ⭐ - A website to create different kind of resources such as infographies, facebook covers, instagram posts, even videos. It uses a drag-and-drop format, so it's quite easy to use.
 
 ## Screen Recorder
 * [OBS](https://obsproject.com/) - Free and open source software for video recording and live streaming.
@@ -107,7 +108,7 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 * [Anki](https://apps.ankiweb.net/) - A cross plataform software with spaced repetition system.
 
 ## File Management
-* [7-Zip](https://www.7-zip.org/) - Compress and decompress heavy files.
+* [7-Zip](https://www.7-zip.org/) ⭐ - Compress and decompress heavy files.
 * [Peazip](http://www.peazip.org/) ⭐ - A free file archiver utility, based on Open Source technologies of 7-Zip, p7zip, FreeArc, PAQ, and PEA projects.
 * [Space Sniffer](http://www.uderzo.it/main_products/space_sniffer/) - Free application that lets you understand how folders and files are structured on your disks. By using a Treemap visualization layout, you have immediate perception of where big folders and files are placed on your device.
 * [FileZilla](https://filezilla-project.org/) ⭐ - Cross-platform FTP, SFTP, and FTPS client with a vast list of features, which supports Windows, Mac OS X, Linux, and more.
@@ -238,8 +239,7 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 * [Sync](https://www.sync.com/) ⭐ - For users concerned about privacy, Sync offers 5GB of free end-to-end encrypted storage (only you can access your data in the cloud). They have paid plans as well.
 * [Resilio](https://www.resilio.com/) ⭐ - Fast p2p file sync software for enterprises and individuals that performs on any machine, data, scale, or network.
 * [Syncthing](https://syncthing.net/) - An open-source peer-to-peer file synchronization.
-* [Wetransfer](https://wetransfer.com/) ⭐- Webpage to share files up to 2GB.
-* [Firefox Send](https://send.firefox.com/) ⭐ - Encrypt and send files with a link that automatically expires to ensure your important documents don’t stay online forever. If  you sign in, you can send files up to 2.5GB.
+* [Tresorit](https://send.tresorit.com/) ⭐- Send files up to 5GB. 
 * [FilePizza](https://file.pizza/) - Peer-to-peer file transfers but in your browser.
 * [Blaze](https://blaze.now.sh/) - Share files using just a web browser via p2p protocol.
 * [Sharedrop](https://www.sharedrop.io) ⭐ - P2P file sharing webpage.
