@@ -61,7 +61,7 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 * [Taskade](https://taskade.com/) - A realtime organization and collaboration tool for outlining tasks and notes with video chat.
 * [Notion](https://www.notion.so/) ⭐ - A multipurpouse tool. It can be used to take notes, archive information, organize teams, etc. You can use yout student's email account to have a Personal Pro account for free.
 * [Obsidian](https://obsidian.md/) - Presented as a "powerful knowledge", this application is a markdown editor with multiple options to connect content. It offers different community plugins. 
-* [Standard Notes](https://standardnotes.com/) - Note taking app which offers secure and private notes. There are [different paid plans](https://standardnotes.com/plans), with different feautures. 
+* [Standard Notes](https://standardnotes.com/) - Note taking app which offers secure and private notes. There are [different paid plans](https://standardnotes.com/plans).
 
 ## Reading
 * [Adobe Acrobat](https://get.adobe.com/reader/) - The most popular pdf viewer. It allows you to create, manipulate, print and manage pdf files. It used in libraries or public places. It'll do the job just fine, but there are better alternatives.
