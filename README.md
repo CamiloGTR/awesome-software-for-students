@@ -225,7 +225,7 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 
 ## Security
 * [Malwarebytes](https://www.malwarebytes.com/) ⭐ - Find and remove malware from your computer. Although, you can pay for the PRO edition, the free version should be enough.
-* [Windows Defender](https://www.microsoft.com/en-us/windows/comprehensive-security) - On Windows 10, you already have this tool which is able to replace most of of previous popular antivirus softwares as far as you take care of your behavious online.
+* [Windows Defender](https://www.microsoft.com/en-us/windows/comprehensive-security) - On Windows 10, you already have this tool which is able to replace most of of previous popular antivirus softwares as far as you take care of your behaviour online.
 
 ## Remote Control
 * [Teamviewer](https://www.teamviewer.com) - A proprietary cross-platform software for remote control, desktop sharing, online meetings, web conferencing and file transfer between computers.
