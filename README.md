@@ -51,7 +51,7 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 ## Note Taking
 * [One Note](https://www.onenote.com/download) - Microsoft app to take notes. It's quite useful if you use a pen or a touchpad.
 * [Google Keep](https://keep.google.com/) ⭐ - Note-taking service developed by Google.
-* [Evernote](https://evernote.com/) ⭐ - App that keeps your notes organized. Memos are synced so they're accessible anywhere, and searchable so you always find what you need.
+* [Evernote](https://evernote.com/) - App that keeps your notes organized. Memos are synced so they're accessible anywhere, and searchable so you always find what you need.
 * [Notable](https://notable.md/) ⭐ - It provides a very powerful Markdown editor, it's the same one VS Code uses in fact, so features like multi-cursors, a minimap and best-in-class syntax highlighting are built-in.
 * [Jotterpad](https://2appstudio.com/jotterpad/) - A minimalistic writing app for Android.
 * [Dark Room](http://jjafuller.com/dark-room/) - A full-screen text editor that makes writing on your computer like using a typewriter: an empty screen with just your words on it. Windows only
@@ -64,12 +64,14 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 * [Standard Notes](https://standardnotes.com/) - Note taking app which offers secure and private notes. There are [different paid plans](https://standardnotes.com/plans).
 
 ## Reading
+* Web Browsers - Today, many web browsers (Firefox, Chrome) can open PDF directly. If you only need to read these documents, having just the web browser is a good solution. However, in case you need more options or open different formats, then consider the following suggestions:
 * [Adobe Acrobat](https://get.adobe.com/reader/) - The most popular pdf viewer. It allows you to create, manipulate, print and manage pdf files. It used in libraries or public places. It'll do the job just fine, but there are better alternatives.
 * [Evince](https://wiki.gnome.org/Apps/Evince) - A document viewer for multiple document formats. Originally from gnome, it can also be used in Windows.
 * [Foxit Reader](https://www.foxitsoftware.com/pdf-reader/) - Freemium PDF tool that can create, view, edit, digitally sign, and print PDF files.
 * [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader.html) ⭐ - PDF, eBook (ePub, Mobi), XPS, DjVu, CHM, Comic Book (CBZ and CBR) reader for Windows.
 * [WinDjView](https://sourceforge.net/projects/windjview/) - Fast, compact and powerful DjVu viewer for Windows with tabbed interface, continuous scrolling and advanced printing options, based on free DjVuLibre library.
 * [Calibre](https://calibre-ebook.com/) - A cross-platform suite for organizing existing e-books into virtual libraries, displaying, editing, creating and converting e-books, as well as syncing e-books with a variety of e-readers.
+
 
 
 ## Citations
@@ -230,7 +232,8 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 ## Remote Control
 * [Teamviewer](https://www.teamviewer.com) - A proprietary cross-platform software for remote control, desktop sharing, online meetings, web conferencing and file transfer between computers.
 * [RealVNC](https://www.realvnc.com) -  A remote access software similar to the Teamviewer.
-* [Anydesk](https://anydesk.com/remote-desktop) ⭐ - A proprietary cross-platform remote desktop.
+* [Rustdesk](https://rustdesk.com) ⭐ - An open source alternative to TeamViewer
+* [Anydesk](https://anydesk.com/remote-desktop) - A proprietary cross-platform remote desktop.
 * [Chrome Remote Desktop](https://chrome.google.com/webstore/detail/chrome-remote-desktop/gbchcmhmhahfdphkhkmpfmihenigjmpp?hl=en) - Access other computers or allow another user to access your computer securely over the Internet. The options are very basic in contrast with the software previously mentioned.
 
 ## Cloud Storage & File Uploads
