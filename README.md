@@ -202,7 +202,6 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 * [Atom](https://atom.io/) - Free and open-source text and source code editor for macOS, Linux, and Microsoft Windows with support for plug-ins written in Node.js, and embedded Git Control, developed by GitHub.
 * [Visual Studio](https://visualstudio.microsoft.com/) ⭐ - An integrated development environment (IDE) from Microsoft. It is used to develop computer programs, as well as websites, web apps, web services and mobile apps.
 * [Sublime Text](https://www.sublimetext.com/3) - A cross-platform source code editor it supports many programming languages and functions can be added by users with plugins, typically community-built and maintained under free-software licenses.
-* [KidCAD EDA](http://kicad-pcb.org/) - a free software suite for electronic design automation. It facilitates the design of schematics for electronic circuits and their conversion to PCB designs.
 * [Arduino](https://www.arduino.cc/) - Open-source electronic prototyping platform enabling users to create interactive electronic objects.
 * [CodeBlocks](http://www.codeblocks.org/) -  a free C, C++ and Fortran IDE. It is designed to be very extensible and fully configurable.
 * [NetBeans](https://netbeans.org/) - an integrated development environment for Java.
