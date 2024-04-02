@@ -64,7 +64,7 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 * [Standard Notes](https://standardnotes.com/) - Note taking app which offers secure and private notes. There are [different paid plans](https://standardnotes.com/plans).
 
 ## Reading
-* Web Browsers - Today, many web browsers (Firefox, Chrome) can open PDF directly. If you only need to read these documents, having just the web browser is a good solution. However, in case you need more options or open different formats, then consider the following suggestions:
+* Web Browsers - Today, many web browsers (Firefox, Chrome) can open PDF files directly. If you only need to read these documents, having just the web browser is a good solution. However, in case you need more options or open different formats, then consider the following suggestions:
 * [Adobe Acrobat](https://get.adobe.com/reader/) - The most popular pdf viewer. It allows you to create, manipulate, print and manage pdf files. It used in libraries or public places. It'll do the job just fine, but there are better alternatives.
 * [Evince](https://wiki.gnome.org/Apps/Evince) - A document viewer for multiple document formats. Originally from gnome, it can also be used in Windows.
 * [Foxit Reader](https://www.foxitsoftware.com/pdf-reader/) - Freemium PDF tool that can create, view, edit, digitally sign, and print PDF files.
