@@ -110,6 +110,7 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 ## Flashcards
 * [Quizlet](https://quizlet.com) ⭐ - A mobile and web-based study application that allows students to study information using flashcards (audio and images) and games, which are optional and automatically generated.
 * [Anki](https://apps.ankiweb.net/) - A cross plataform software with spaced repetition system.
+* [Shiori](https://shiori-v1.vercel.app) - Open-source AI study companion with built-in spaced repetition flashcards, Google Classroom sync, Gemini AI quiz generator, and GPA predictor. Free, no account needed (Try Demo).
 
 ## File Management
 * [7-Zip](https://www.7-zip.org/) ⭐ - Compress and decompress heavy files.
