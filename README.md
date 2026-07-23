@@ -84,6 +84,8 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 * [TexMaker](http://www.xm1math.net/texmaker/) - Free cross-platform LaTeX editor.
 * [Jabref](http://www.jabref.org/) - Open source bibliography reference manager. The native file format used by JabRef is BibTeX, the standard LaTeX bibliography format. JabRef is a desktop application and runs on the Java VM (version 8).
 * [Lyx](https://www.lyx.org/) - Document processor that encourages an approach to writing based on the structure of your documents and not simply their appearance.
+* [Humanize-Text](https://github.com/lynote-ai/humanize-text) - Open-source AI text humanizer with a multilingual rewriting pipeline for polishing AI-assisted drafts.
+* [AI Text Detector](https://github.com/lynote-ai/ai-text-detector) - Explainable local AI-text risk analyzer for cautiously reviewing AI-assisted writing.
 
 ## Diagrams
 * [Draw.io](https://www.draw.io/) - Free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams.
