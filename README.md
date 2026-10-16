@@ -64,6 +64,7 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 * [Standard Notes](https://standardnotes.com/) - Note taking app which offers secure and private notes. There are [different paid plans](https://standardnotes.com/plans).
 
 ## Reading
+* [AI 만화 번역기](https://www.mangatranslate.com/ko/ai-manga-translator/) - Ficory LLC의 기업급 만화 리더는 제품이 지원하는 모든 번역 언어를 제공합니다. 개인 사용자는 여러 페이지를 일괄 번역하고 작품에 맞게 번역을 조정합니다. 스튜디오는 완전한 온라인 Photoshop 스타일 편집기에서 대사와 배치를 수정합니다. 사용자는 API를 개인 작업 흐름에 연결합니다. 제한된 무료 크레딧과 유료 옵션을 제공하는 Freemium 서비스입니다.
 * Web Browsers - Today, many web browsers (Firefox, Chrome) can open PDF files directly. If you only need to read these documents, having just the web browser is a good solution. However, in case you need more options or open different formats, then consider the following suggestions:
 * [Adobe Acrobat](https://get.adobe.com/reader/) - The most popular pdf viewer. It allows you to create, manipulate, print and manage pdf files. It used in libraries or public places. It'll do the job just fine, but there are better alternatives.
 * [Evince](https://wiki.gnome.org/Apps/Evince) - A document viewer for multiple document formats. Originally from gnome, it can also be used in Windows.
