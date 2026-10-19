@@ -71,6 +71,7 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 * [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader.html) ⭐ - PDF, eBook (ePub, Mobi), XPS, DjVu, CHM, Comic Book (CBZ and CBR) reader for Windows.
 * [WinDjView](https://sourceforge.net/projects/windjview/) - Fast, compact and powerful DjVu viewer for Windows with tabbed interface, continuous scrolling and advanced printing options, based on free DjVuLibre library.
 * [Calibre](https://calibre-ebook.com/) - A cross-platform suite for organizing existing e-books into virtual libraries, displaying, editing, creating and converting e-books, as well as syncing e-books with a variety of e-readers.
+* [Glim](https://github.com/NeoPanic/Glim) - Free, open-source macOS reader for PDFs, Markdown with diagrams and structured data files. PDF and Office previews are read-only; ordinary text files support basic editing.
 
 
 
