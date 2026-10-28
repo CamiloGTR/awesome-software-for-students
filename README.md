@@ -145,6 +145,7 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 * [Google Keep](https://keep.google.com/) - It can be used for easy to setup to-do lists.
 * [Evernote](https://evernote.com/) - Same as [Google Keep](https://keep.google.com/).
 * [ColdTurkey](https://getcoldturkey.com/) - Block digital distractions so you can be more productive and focus on what's most important to you.
+* [Ripple](https://ripplefocus.github.io/en/) - Free iOS 16+ and Android app blocker for study time. Locks chosen apps on a schedule, adds a 15-minute wait before a block can be turned off, and on Android can block only YouTube Shorts and Instagram Reels while messaging keeps working.
 
 
 ## Music
