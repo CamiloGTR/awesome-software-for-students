@@ -211,6 +211,7 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 * [Geany](https://www.geany.org/) - A lightweight GUI text editor using Scintilla and GTK+, including basic IDE feature
 
 ## Math
+* [Calculation Hub Percentage Calculator](https://calculation-hub.com/math/percentage) - Free part/whole, percentage and percent-change calculations with formula explanations; no login required.
 * [Sagemath](https://www.sagemath.org/) - An open-source mathematics software system licensed under the GPL.
 * [Desmos](https://www.desmos.com/) - A free calculator, graph functions, plot data, evaluate equations, explore transformations, among other functions.
 * [Microsoft Mathematics 4.0](https://www.microsoft.com/en-us/download/details.aspx?id=15702) - A graphing calculator that plots in 2D and 3D, step-by-step equation solving, and useful tools to help students with math and science studies.
