@@ -62,6 +62,7 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 * [Notion](https://www.notion.so/) ⭐ - A multipurpouse tool. It can be used to take notes, archive information, organize teams, etc. You can use yout student's email account to have a Personal Pro account for free.
 * [Obsidian](https://obsidian.md/) - Presented as a "powerful knowledge", this application is a markdown editor with multiple options to connect content. It offers different community plugins. 
 * [Standard Notes](https://standardnotes.com/) - Note taking app which offers secure and private notes. There are [different paid plans](https://standardnotes.com/plans).
+* [Glasp](https://glasp.co/) - Highlight web pages, PDFs and YouTube videos, then review them with AI summaries. Has a free plan; university students with a school email can get the free [Glasp Student](https://glasp.co/students) plan.
 
 ## Reading
 * Web Browsers - Today, many web browsers (Firefox, Chrome) can open PDF files directly. If you only need to read these documents, having just the web browser is a good solution. However, in case you need more options or open different formats, then consider the following suggestions:
