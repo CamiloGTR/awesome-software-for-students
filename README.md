@@ -207,6 +207,7 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 * [NetBeans](https://netbeans.org/) - an integrated development environment for Java.
 * [PostMan](https://www.getpostman.com/) - An API development environment.
 * [FreeXML Editor](http://www.firstobject.com/dn_editor.htm) -  A free XML editor for Windows that can load big files fast and lets you format XML and edit HTML and any loosely formed XML.
+* [NextJSON](https://nextjson.com/) - Free online nested JSON parser and formatter, handy for inspecting API responses and escaped JSON strings.
 * [Vim](https://www.vim.org/download.php) - An editor to program.
 * [Geany](https://www.geany.org/) - A lightweight GUI text editor using Scintilla and GTK+, including basic IDE feature
 
